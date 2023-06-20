@@ -1,0 +1,956 @@
+Wille	intención
+Tunnel	camino
+statistisches Mass	esperanza de vida
+Nihilismus	película
+Paul die Krake	pulpo
+BIP	recesión
+Zink	oro
+Eis	nieve
+Times	Guardian
+Knopf	máquina de coser
+Clinton	Obama
+Fernunterricht	Internet
+Wirtschaftskrise	PIB
+Lampe	genio
+Suffix	afijo
+Biologie	biotopo
+Wassersport	surf
+Steuerknüppel	radar
+Matrix	vector
+Flasche	lata
+Provirus	membrana plasmática
+Zahn	martillo
+Sessel	taburete
+Lawine	nieve
+Flaggenkunde	bandera
+Rahmen	golpe
+Polyeder	actor
+Serienmörder	asesino
+Helligkeit	estrella
+Universität	campus
+Base	ácido
+Affix	sufijo
+Raumschiff	Julio
+Galaxie	astrónomo
+Pistole	cuaderno
+Papiergeld	sacerdote
+Arbeit	herramienta
+Diener	esclavo
+Einkommen	calidad de vida
+Medaille	zapatillas
+Paracetamol	bronquitis
+Microsoft	Celsius
+Schlüssel	corona
+Gouverneur	emperador
+Schüler	profesor
+Delta	mar
+Aristoteles	Platón
+Renner	atleta
+Insel	península
+Verfassung	senado
+Simulation	robótica
+Amerikanisch	inglés
+Gold	zinc
+fossiler Brennstoff	fósil
+Energie	batería
+Nietzsche	Chelsea
+Buch	accidente
+Verhandlung	diplomacia
+Diplomatie	negociación
+Ban Ki-moon	Naciones Unidas
+Zivilisation	estilo de vida
+Staubblatt	polinización
+Elektrolokomotive	Siemens
+Kloster	ducha
+Wolke	ventana
+Umschlag	decoración
+Mozilla Firefox	navegador web
+Matrix	molécula
+Musik	flauta
+Kanonboot	costa
+Flagge	vexilología
+Ball	esfera
+Tal	depresión
+Flughafen	pieza
+Zauberer	Harry Potter
+Islamophobie	EI
+Trainer	jugador
+Schulden	préstamo bancario
+Jasminreis	basmati
+Wachstumshormon	somatotropina
+Problem	trastorno bipolar
+politische Partei	asociación
+Radiator	sensor
+Erdbeere	cereza
+Nähmaschine	botón
+schwarzes Loch	vacío
+Chef	director
+Schmetterling	rosa
+CO2	dióxido de carbono
+Strasse	Spider-Man
+Autobahn	carretera
+Mönch	cruz
+Kohlendioxid	CO2
+Halbinsel	isla
+Vereinte Nationen	Ban Ki-moon
+Charakter	persona
+Theater	batería
+Jupiter	Mercurio
+Faraday-Konstante	mochila
+Roman	escritor
+System	falla
+Lehrer	estudiante
+Soldat	paz
+Mineralwasser	chaqueta
+Unteroffizier	pistola
+Springen	valla
+Bayern München	Juventus
+Viereck	mapa
+Eiscreme	desayuno
+Wurm	malware
+Flugzeug	helicóptero
+Coke	Coca Cola
+Bruder	hermana
+Nachrichten	editorial
+Spritzer	viscosidad
+Mosaik	basílica
+Windhose	tifón
+Deutsche Bank	FMI
+Fussball	fútbol
+Übersetzer	extranjero
+Bühne	heavy metal
+Basmatireis	arroz jazmín
+Teleskop	silla
+Statistik	tenis
+Mann	sospechoso
+König	nepotismo
+Wiedergeburt	Renaissance
+Manuskript	artículo
+Bildhauer	mansión
+KFC	McDonald's
+Mensa	CI
+Schloss	muro
+Statue	glaciación
+Nahrung	programa
+Kubik	dados
+Keim	patógeno
+Surfen	deporte acuático
+Ebola Virus	Ébola
+Krönung	agua
+Abzeichen	vaso
+Ausbilder	profesor
+Pfarrer	billete
+Renaissance	Renacimiento
+Hautausschlag	dermatitis
+Erdbeben	temblor
+Maske	fiesta
+Echte Schweine	jabalí enano
+Computer	máquina
+Allianz	OTAN
+Phonologie	pantalla
+Gauss	científico
+Sitzung	paciente
+Azetylcholin	iris
+Olympische Spiele	espíritu
+Ast	brazo
+Maschine	ordenador
+Korruption	fraude
+Geisir	manantial
+Zellmembran	provirus
+Unterprogramm	compilador
+gelobtes Land	Baku
+Latein	alemán
+Zug	tranvía
+Friedensrichter	juez
+Süssigkeiten	canela
+Snowboard	esquí
+Orion	constelación
+Himmel	sueño
+Islam	Corán
+Comicroman	tebeo
+Jacke	agua mineral
+Salz	cloruro de sodio
+Woody Allen	objetivo
+Meer	delta
+Visa	globalismo
+Harry Potter	mago
+Grossstadt	pueblo
+Umwelt	espada
+Besen	polvo
+Koran	Islam
+Traum	cielo
+Molekül	matriz
+Moskau	Unión Europea
+Sternbild	Orión
+Politiker	policía
+Person	personaje
+Verdächtiger	hombre
+Kathedrale	iglesia
+Stück	aeropuerto
+Wüste	duna
+Spanisch	humedad
+Fluss	flujo de caja
+Landwirtschaft	planta
+Sklave	criado
+Fenster	nube
+Wetterprognose	nubosidad
+Eidechse	gobierno
+Aufgabe	apuntes
+Atmosphäre	ozono
+Mobiltelefon	teléfono
+IMF	Deutsche Bank
+Holz	manta
+Feuer	apocalipsis
+Schnee	hielo
+Dach	ventana
+Mojito	mojito
+chemische Substanz	base
+Mühle	semilla
+Gemütsart	Juegos Olímpicos
+Herrscher	rey
+Saft	cuchara
+University of Cambridge	Universidad de Oxford
+Shakespeare	Dickens
+Leitartikel	noticia
+Pfennig	ganga
+Sonnett	belleza
+Bleistift	historia
+Obdachloser	multimillonario
+Quelle	géiser
+Stichkampf	baloncesto
+Wall Street	mercado financiero
+Christ	protestante
+Somatropin	hormona del crecimiento
+Sonne	cable
+Laptop	ordenador portátil
+Schauspielerin	actor
+Prinzessin	galleta
+New York	antropología
+Thermodynamik	reacción en cadena
+Fossil	combustible fósil
+Demokratie	monarquía
+Spieler	entrenador
+Bestäubung	estambre
+Joghurt	ganado
+Person	paso de cebra
+Pistole	sargento
+Sämling	hoja
+Bildschirm	fonología
+Regenschirm	radiador
+Auto	camión
+Vetternwirtschaft	rey
+33-Bogen-Brücke	Mathematical Bridge
+Sphäre	balón
+Tisch	puesta de sol
+Arbeiterklasse	planta
+Senat	constitución
+Glass	emblema
+Statue	escultura
+Array	lista
+Unterrichtsgebühr	beca
+Turnschuhe	medalla
+Ansehen	honor
+Fuss	arena
+Dollar	millonario
+Packet	camión
+Strand	costa
+Juventus	Bayern Munich
+Alexander Fleming	penicilina
+Hautentzündung	eczema
+Düne	desierto
+Vieh	yogurt
+Vorhang	persiana
+Kino	ópera
+Gesetz	piscina
+Google Drive	conductor
+Tuberkulose	LED
+Kabel	mago
+Jerusalem	hebreo
+Ameise	mosca
+Geldwäsche	JPY
+Struktur	topología
+Jahrhundert	año
+Strasse	autovía
+Regen	granizo
+Chelsea	Nietzsche
+Aufstand	dibujo
+Mode	estilo
+Stil	moda
+Helikopter	avión
+Auto	bicicleta
+Stipendium	matrícula
+Bargeld	dinero
+Neurose	mente
+Level	puntuación
+Motor	pistón
+Muttersprache	idioma
+Imperator	gobernador
+Ausgang	sufragio
+Welt	Asia
+Helm	arma
+Kirsche	fresa
+Blut	virus
+Cyrus	Imperio persa
+Magma	volcán
+Mozart	Guerra de las Galaxias
+Europäische Union	Moscú
+Parlament	congreso
+Sänger	personal
+Ausserirdischer	forastero
+Monitor	pantalla
+Markierung	club
+Bronchitis	acetaminofeno
+Brainstorming	telescopio
+Feld	avena
+Obstgarten	avestruz
+Boeing	avión
+London	precio de licitación
+Künstler	obra de arte
+Kondensator	diodo
+Chomolungma	Monte Everest
+Schwester	hermano
+Patriotismus	himno nacional
+Tanz	vestido
+Körper	ropa interior
+Schläger	pelota
+Niederschlag	cambio climático
+Gitarre	trucha
+Rock	reloj
+Jahr	siglo
+Ecuador	ecuador
+Auto	tanque
+Büchse	botella
+Episode	capítulo
+Lastwagen	paquete
+Abwehr	fuerzas armadas
+Wolke	lago
+Stahl	aleación
+Hintergrund	fondo de pantalla
+Kabel	capilla
+Ozon	atmósfera
+Topologie	estructura
+Heavy Metal	escenario
+Dell	Dingle
+Photoshop	Paint
+Webbrowser	Mozilla Firefox
+Schneesturm	lluvia
+England	Reina Victoria
+Pullover	algodón
+AI	batería
+Hagel	lluvia
+iPhone	Apple
+Sonnenuntergang	mesa
+Verlobung	anillo
+Sand	pie
+Planet	estrella
+Nationalhymne	patriotismo
+Baum	barco
+Arbeiter	oficina
+Forelle	guitarra
+Milchshake	zumo
+Gedicht	ritmo
+Elephant	brújula
+Muffin	perejil
+Entwicklung	recaudación de fondos
+Münzamt	museo
+Actant	poliedro
+HSBC	Gran Bretaña
+Schreibwaren	Legión de Honor
+Gewinner	campeón
+Meteor	gravedad
+Karte	plaza
+Tanz	Polo Sur
+Stadium	Oscars
+Handy	piña
+Schlüssel	cerradura
+Zitrusfrucht	pomelo
+Anthropologie	arqueología
+Equator	Ecuador
+Verstand	neurosis
+Fremdenfeindlichkeit	racismo
+Teleskop	tormenta de ideas
+Fahrrad	coche
+Klimawandel	precipitación
+Blatt	plántula
+Geschlechtsdiskriminierung	sexismo
+persisches Reich	Ciro
+Wirtschaft	ecosistema
+Strickgarn	hilo
+Obama	Clinton
+Westliche Welt	Western Union
+Sturm	manta
+Astronom	galaxia
+Rassismus	xenofobia
+Rosenöl	agua de rosas
+Häkeln	uniforme
+Hemd	rebeca
+Leonardo da Vinci	La Última Cena
+Zelle	cárcel
+Wand	castillo
+Mona Lisa	obra maestra
+Opfer	teléfono
+Löwenmäuler	lantana
+Neuropsychologie	parapsicología
+Opel	Mercedes
+Unterrichtsstoff	examen
+Vampir	murciélago
+Fahrer	Google Drive
+Football	balompié
+Tsunami	mar
+Zitrusfrucht	naranja
+Cricket	seguidor
+Geldkurs	Londres
+Harmonie	piano
+Jalousie	cortina
+Welle	clima
+Betriebssystem	aprendizaje profundo
+Notebook	portátil
+Applikation	galaxia
+Richter	magistrado
+Amazonas	bosque
+JPEG	PDF
+Internet	educación a distancia
+Mutant	sociobiología
+Quelle	caja
+Adidas	Nike
+Europäisches Parlament	Naciones Unidas
+Algebra	operación
+Wasser	sequía
+Erfolg	marco
+Aktie	activo
+Asteroid	estrella
+Asien	mundo
+Ziffer	citoplasma
+Ausländer	traductor
+Das Abendmahl	Leonardo da Vinci
+selbstfahrendes Auto	vehículo autónomo
+Erderwärmung	glaciar
+Hocker	silla
+Eidechse	cocodrilo
+Film	actor secundario
+Hamedan	Roma
+Kartoffel	arrozal
+Rezeptor	molécula proteica
+Kolben	motor
+Chor	cantante
+Geldfluss	río
+Elephant	dinosaurio
+Decke	vendaval
+Schriftsteller	novela
+Gefängnis	celda
+Therapie	conductismo
+Bildschirm	monitor
+Schwimmbad	ley
+Tennis	estadística
+Flöte	música
+Stift	alfabeto
+Celsius	Microsoft
+Rucksack	constante de Faraday
+Gehölz	Tiger Woods
+PlayStation	Wii
+Film	nihilismo
+PC Spiel	videojuego
+Protestant	cristiano
+Programm	comida
+IQ	Mensa
+Theorem	Bolzano
+Nahost	Éufrates
+Erschütterung	terremoto
+Kalender	vacaciones
+Zara	mallas
+Basilika	mosaico
+Artikel	manuscrito
+Fussgängerstreifen	persona
+Maus	patatas fritas
+Wald	Amazonas
+Palast	rascacielos
+Erreger	germen
+Film	teatro
+Globalisierung	visa
+Diode	condensador
+Wettbewerb	respeto mutuo
+Akustik	sonido
+Löffel	zumo
+Auftritt	actuación
+Lehrer	instructor
+Teilung	multiplicación
+Börse	mercado de valores
+Fabrik	clase obrera
+Hag	salto
+Foxterrier	Canon
+Neanderthaler	deporte
+Coca-Cola	bebida de cola
+Büro	trabajador
+Dinosaurier	elefante
+El Niño	ecuador
+Krone	llave
+Holz	piedra
+Hülle	puerto
+Pandabär	oso polar
+Schönheit	soneto
+Notizbuch	arma
+Elektrizität	funda
+Dickflüssigkeit	salpicadura
+Mochito	mojito
+Regierung	lagartija
+Anthropologie	Nueva York
+Papier	póster
+Band	orquesta
+Klavier	armonía
+Regenschirm	calibre
+Philosoph	carreras
+Blutkörperchen	zorro
+Star Wars	Mozart
+Vertrag von Maastricht	Europa
+Unterwäsche	cuerpo
+LED	tuberculosis
+Saccharose	carbohidrato
+Dürre	agua
+Athlet	corredor
+Batterie	teatro
+Joule	astronave
+Fechten	gimnasia
+grüne Revolution	pintura
+Betrug	corrupción
+Strauss	huerto
+Republik	duque
+Chips	cursor
+Gymnastik	esgrima
+Entropie	información
+Lebensstil	civilización
+Finanzmittelbeschaffung	desarrollo
+Regen	tormenta de nieve
+Gitarre	violín
+Staub	escoba
+Dichter	periodista
+Präsentationsfolie	puntero
+Anwalt	fiscal
+Europa	Tratado de Maastricht
+Zauberer	cable
+Medikament	Pfizer
+Villa	escultor
+GTA	Grand Theft Auto
+Robotik	simulación
+Subway	bocadillo
+Pflanze	agricultura
+Tauziehen	Serpientes y Escaleras
+Anwalt	galería
+Moral	leyenda
+Frieden	soldado
+Fuchs	glóbulo
+Staatsanwalt	abogado
+Windbö	viento
+Vacuum	agujero negro
+Parapsychologie	neuropsicología
+Wissenschaftler	Gauss
+Aquarell	brocha
+Euphrates	Oriente Medio
+Kalter Krieg	Unión Soviética
+bedeckt	pronóstico
+MS	esclerosis múltiple
+Frisbee	juego de cartas
+Kapitel	episodio
+Deep Learning	sistema operativo
+Königin Victoria	Inglaterra
+Eroberer	Alejandro Magno
+JPY	blanqueo de dinero
+Britannien	HSBC
+Soziobiologie	mutante
+Information	entropía
+Hadoop	pantalla táctil
+Touchscreen	Hadoop
+Motherboard	placa base
+Uhrturm	piedra
+Krake	pulpo Paul
+Aufsatz	deberes
+Ehrenlegion	papelería
+Stern	brillo
+Klimaerwärmung	calor
+Siemens	tren eléctrico
+Schloss	llave
+Freude	tristeza
+Spider-Man	calle
+Ehre	estima
+Farbe	revolución verde
+Kreuz	monje
+Marine	isla
+Lied	artista
+Butterbrot	Subway
+Telefon	móvil
+Schadprogramm	gusano
+Natur	flora
+Attacke	crimen
+Umtausch	moneda
+Geige	guitarra
+See	garza real
+Gesellschaft	cultura
+Klasse	caos
+Kettenreaktion	termodinámica
+Geld	efectivo
+Sexismus	discriminación de género
+Archeologie	antropología
+Wetter	ola
+Sensor	radiador
+Düse	fluido
+Operation	álgebra
+Währung	intercambio
+Schachtel	fuente
+Zeichnung	revuelta
+Webbrauser	flora
+Basis	sustancia química
+Heizer	paraguas
+Strategie	juego de estrategia
+Brexit	impuesto
+Kohlenhydrat	sacarosa
+Cytoplasma	dedo
+Unendlichkeit	cero
+Weltuntergang	fuego
+Faden	hilado
+Graureiher	lago
+Schauspieler	televisión
+Theorie	teorema
+Finanzmarkt	Wall Street
+Cäsar	Julio César
+Arm	rama
+Liste	matriz
+Union Jack	bandera
+Batterie	energía
+Wurzel	UNICEF
+Wörterbuch	enciclopedia
+Telefon	víctima
+Kultur	sociedad
+Plato	Aristóteles
+Kompass	elefante
+Sänger	coro
+Milchprodukt	miel
+Kugelschreiber	escuela primaria
+Comic	novela gráfica
+Dusche	monasterio
+Kirche	catedral
+Schauspieler	actriz
+Fledermaus	vampiro
+Kaugummi	menta
+chirurgischer Eingriff	tratamiento
+Leggings	Zara
+Pfarrer	profeta
+Legende	moraleja
+Vermögen	existencias
+Flugzeug	Boeing
+Hammer	dientes
+Hebräisch	Jerusalén
+Rosenwasser	esencia de rosas
+Verstand	cerebro
+Club	marca
+Milliardär	vagabundo
+Prüfung	temario
+Schuld	sistema
+Rangabzeichen	dignidad
+Würfel	cubo
+Dekoration	sobre
+Keks	princesa
+Ananas	smartphone
+Stein	madera
+Innenstadt	autobús
+Protein	pomo
+Mörder	asesino en serie
+Monarchie	democracia
+Vector	matriz
+Vulkan	magma
+Stein	torre del reloj
+Nebenfigur	película
+Fernsehen	actor
+Zeiger	diapositiva
+Gehirn	mente
+Journalist	poeta
+Kino	palomitas
+Baumwolle	poliéster
+Werkzeug	trabajo
+Cloudcomputing	lluvia
+Bischof	musulmán
+Würde	insignia
+Personal	vocalista
+Getreide	mijo
+Tabelle	gráfico
+Wasser	coronación
+Verfassung	emperador
+Rom	Hamedan
+Merkur	Júpiter
+Kompilierer	subrutina
+Theorie	Olimpiada Internacional de Matemáticas
+Polyester	algodón
+Engel	demonio
+Videospiel	juego de ordenador
+Vorschule	jardín de infancia
+Alexander der Grosse	conquistador
+WikiLeaks	Wifi
+Fliege	hormiga
+Seidenstrasse	gusano de seda
+Englisch	americano
+Gehäuse	electricidad
+Ronaldo	U2
+gegenseitiger Respekt	competición
+Sultan	ministerio
+Bezahlung	moneda
+Traurigkeit	felicidad
+Geschichtsschreiber	historiador
+Säure	base
+Regisseur	jefe
+Raupe	gusano de seda
+Go	backgammon
+Stadt	ciudad
+Herzog	república
+Hafer	campo
+Pfefferminze	chicle
+Eisbär	oso panda
+Lebenserwartung	medida estadística
+Südpol	baile
+Geschenk	escritor
+Null	infinito
+Julius Cäsar	César
+Hypothese	teoría
+Frau	vaqueros
+Perspektive	distancia
+Kamera	secuela
+Popcorn	cine
+Zwergwildschwein	suidae
+Anziehungskraft	meteorito
+Primarschule	bolígrafo
+Chaos	clase
+Meisterwerk	Mona Lisa
+bipolare Störung	problema
+Stern	asteroide
+Regen	computación en la nube
+Fortsetzung	cámara
+Hafen	envoltorio
+Gletscher	calentamiento global
+Thron	espada
+Rhythmus	poema
+Schwert	trono
+Jeans	mujer
+Orchester	banda
+bewaffnete Streitkräfte	defensa
+Penicillin	Alexander Fleming
+Wandelröschen	boca de dragón
+Vereinte Nationen	Parlamento Europeo
+Ebola	virus del Ébola
+Aufführung	matemático
+Reisfeld	patata
+Iris	acetilcolina
+Feuchtigkeit	español
+Mathematiker-Brücke	Si-o-seh pol
+Pinsel	acuarela
+Geschichte	lápiz
+Multiplikation	división
+Weide	pradera
+Oper	cine
+Flagge	Union Jack
+Protein-Molekül	receptor
+Radar	joystick
+Seidenraupe	Ruta de la Seda
+Enzyklopädie	diccionario
+Behandlung	operación quirúrgica
+Mine	roca
+Flora	navegador web
+Ton	acústica
+Jo-Jo	juguete
+Sport	neandertal
+Basketball	desempate
+Fernseher	guionista
+Kindergarten	preescolar
+Umformung	altitud
+Ecosystem	economía
+Panzer	coche
+Cardigan	camisa
+Scheibe	cargador
+Absicht	voluntad
+Lastwagen	coche
+Unterstützer	críquet
+Google DeepMind	DeepMind
+Uniform	ganchillo
+Stein	mina
+Illustration	ampolla
+Boot	árbol
+Depression	valle
+Theorem	teoría
+Gmail	Yahoo
+Stimmrecht	salida
+Grand Theft Auto	GTA
+Flora	naturaleza
+Manuskript	libro
+Behaviorismus	terapia
+Pest	pesticida
+Skifahren	snowboard
+Oxford University	Universidad de Cambridge
+Hitze	calentamiento global
+Paint	Photoshop
+Wallpaper	fondo
+Wii	PlayStation
+Krokodil	lagarto
+Aufführung	cameo
+Kaliber	paraguas
+Darsteller	canción
+Petersilie	magdalena
+Kaiser	constitución
+Kunstwerk	artista
+Drehbuchautor	televisión
+Patient	sesión
+Pampelmuse	cítrico
+Küste	playa
+Schlange	lagartija
+Geist	lámpara
+McDonald's	KFC
+Mount Everest	Chomolungma
+Ball	raqueta
+Freiheit	oasis
+Geschwindigkeit	correo
+Ziffer	número
+Tradition	artesanía
+Ring	compromiso
+Eiszeit	estatuto
+Diagramm	gráfica
+NATO	alianza
+Film	película
+Äquator	El Niño
+Stern	planeta
+Mercedes	Opel
+Schnee	avalancha
+Oscars	estadio
+Aktienmarkt	bolsa
+Dämon	ángel
+Sitz	telescopio
+Kabel	Sol
+Buch	manuscrito
+Orange	cítrico
+Skulptur	estatua
+Meteorit	Tierra
+Hummer	tiburón ballena
+Soviet Union	Guerra Fría
+Western Union	mundo occidental
+Taifun	ciclón
+Backgammon	Go
+Kumulation	desviación estándar
+Baku	Tierra Prometida
+Pfad	túnel
+Mainboard	placa madre
+Virus	sangre
+Tiger Woods	bosque
+Seidenraupe	oruga
+See	nube
+Verbrechen	ataque
+Oase	libertad
+Honig	lechería
+Mais	maíz
+Kapelle	cable
+Muslime	obispo
+Frühstück	helado
+Küste	cañonero
+Congress	parlamento
+Waffe	casco
+Nummer	dígito
+Dingle	Dell
+Höhe	conversión
+Polizist	político
+Theorie	hipótesis
+Pfizer	medicamento
+Notizen	tarea
+Fenster	techo
+Dampf	cero absoluto
+Korn	molino
+Mathematiker	espectáculo
+Bauchspeicheldrüsenkrebs	quimioterapia
+Walhai	langosta
+Entfernung	perspectiva
+Leiterspiel	juego de la soga
+Meister	ganador
+Outlander	extraterrestre
+Theater	película
+Galerie	abogado
+Fest	máscara
+Wolkenkratzer	palacio
+Rennen	filósofo
+Decke	madera
+Affe	campaña
+Campus	universidad
+Unfall	libro
+Bolzano	teorema
+Saft	batido
+WiFi	WikiLeaks
+Flüssigkeit	boquilla
+Pathologie	hematología
+Prophet	sacerdote
+Yahoo	Gmail
+Sprache	lengua materna
+Handwerk	tradición
+Ampulle	ilustración
+Kinofilm	largometraje
+Poster	papel
+Lebensqualitàt	renta
+Hausaufgaben	redacción
+Baumwolle	jersey
+Galaxie	aplicación
+absoluter Nullpunkt	vapor
+Wachstum	fertilizante
+Apple	iPhone
+Ministerium	sultán
+Ferien	calendario
+Graslandschaft	prado
+König	gobernante
+Zimt	caramelo
+Rose	mariposa
+Legierung	acero
+Strategiespiel	estrategia
+ISIS	islamofobia
+U2	Ronaldo
+Millionär	dólar
+UNICEF	raíz
+Guardian	Times
+Beethoven	Segunda Guerra Mundial
+Bankkredit	deuda
+Schnäppchen	centavo
+Pestizid	peste
+Batterie	IA
+Münze	pago
+Erde	meteorito
+Dünger	crecimiento
+Ladegerät	disco
+Canon	Fox Terrier
+Hämatologie	patología
+Kampagne	mono
+Kartenspiel	frisbee
+Post	velocidad
+Steuer	Brexit
+Dickens	Shakespeare
+Multiple Sklerose	EM
+Bus	centro
+Linse	Woody Allen
+Schwert	medio ambiente
+Alphabet	bolígrafo
+Tram	tren
+Wind	borrasca
+Zweiter Weltkrieg	Beethoven
+Museum	ceca
+Nike	Adidas
+Deutsch	latín
+Insel	marina
+Eidechse	serpiente
+PDF	JPEG
+Biotop	biología
+Blut	cuerpo
+DeepMind	Google DeepMind
+Punktezahl	nivel
+Meer	maremoto
+Normalabweichung	acumulación
+Beamte	diputado
+Spielzeug	yoyó
+Autor	regalo
+internationale Mathematik Olympiade	teoría
+Natriumchlorid	sal
+Uhr	falda
+Vereinigung	partido político
+Historiker	historiógrafo
+Roboterauto	coche autónomo
+Körper	sangre
+Griff	proteína
+Chemotherapie	cáncer de páncreas
+Abgeordneter	oficial
+Kleid	baile

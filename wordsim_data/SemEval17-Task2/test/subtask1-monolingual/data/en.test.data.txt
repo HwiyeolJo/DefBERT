@@ -1,0 +1,500 @@
+Joule	spacecraft
+Promised Land	Baku
+car	bicycle
+polyhedron	actor
+multiple sclerosis	MS
+fault	system
+weapon	helmet
+screenwriter	television
+United Nations	Ban Ki-moon
+Si-o-seh pol	Mathematical Bridge
+basilica	mosaic
+watercolor painting	brush
+democracy	monarchy
+Gauss	scientist
+tuberculosis	LED
+self-driving car	autonomous car
+apocalypse	fire
+speed	post
+PlayStation	Wii
+laptop	notebook
+Harry Potter	wizard
+snowboard	skiing
+pointer	slide
+sensor	radiator
+hit	frame
+theory	hypothesis
+Wall Street	financial market
+Darwin	evolution
+actor	actress
+film	theatre
+national anthem	patriotism
+screen	monitor
+dairy	honey
+Mount Everest	Chomolungma
+tug of war	Snakes and Ladders
+pesticide	pest
+policeman	politician
+neuropsychology	parapsychology
+battery	energy
+Legion of Honour	stationery
+Spider-Man	street
+peninsula	island
+equator	Ecuador
+chart	graph
+simulation	robotics
+Nike	Adidas
+society	culture
+strategy game	strategy
+church	cathedral
+translator	foreigner
+biotope	biology
+magma	volcano
+brainstorming	telescope
+level	score
+penny	bargain
+political party	association
+tsunami	sea
+ostrich	orchard
+cinnamon	candy
+broom	dust
+galaxy	astronomer
+juice	milkshake
+window blind	curtain
+criminal	offender
+pancreatic cancer	chemotherapy
+past	antecedent
+United Nations	European Parliament
+song	performer
+gun	notebook
+acetylcholine	iris
+alphabet	pen
+chorus	singer
+wood	blanket
+soldier	peace
+English	American
+lizard	crocodile
+money	cash
+Paul the Octopus	octopus
+calendar	holiday
+base	chemical substance
+government	lizard
+JPY	money laundering
+DeepMind	Google DeepMind
+chess	check
+sonnet	beauty
+worker	office
+currency	exchange
+polyester	cotton
+tribunal	justice
+tail	rear
+accident	book
+squall	wind
+piano	harmony
+sultan	ministry
+desert	dune
+multiplication	division
+virus	blood
+ice age	statute
+sword	environment
+elementary school	pen
+cricket	supporter
+sculpture	statue
+web browser	Mozilla Firefox
+Fox Terrier	Canon
+HSBC	Britain
+Bible	Gospel
+dress	dance
+array	list
+cell	lock-up
+essay	homework
+computer	machine
+panda	polar bear
+neurosis	mind
+campaign	monkey
+Faraday constant	rucksack
+palace	skyscraper
+helicopter	plane
+University of Cambridge	Oxford University
+flag	pole
+window	roof
+card game	frisbee
+malware	worm
+planet	star
+runner	athlete
+caliber	umbrella
+WiFi	WikiLeaks
+drought	water
+airport	piece
+orchestra	band
+mojito	mohito
+syllabus	exam
+theorem	theory
+yo-yo	toy
+blizzard	rain
+historian	historiographer
+Siemens	electric train
+century	year
+alloy	steel
+magistrate	judge
+chaos	class
+distance education	internet
+sand	foot
+IMF	Deutsche Bank
+Guardian	Times
+silkworm	Silk Road
+freedom	oasis
+cytoplasm	digit
+protestant	christian
+Leonardo da Vinci	The Last Supper
+map	square
+parliament	congress
+fundraising	development
+pathology	hematology
+valley	depression
+telescope	chair
+heavy metal	stage
+globalism	visa
+bat	vampire
+deputy	officer
+electricity	case
+alien	outlander
+button	sewing machine
+wizard	cable
+philosopher	racing
+popcorn	cinema
+agriculture	plant
+poet	journalist
+weather	wave
+civilization	lifestyle
+snow	ice
+World War II	Beethoven
+motherboard	mainboard
+club	mark
+Alexander the Great	conqueror
+app	galaxy
+cloud computing	rain
+television	actor
+delta	sea
+yarn	thread
+pedestrian crossing	person
+protein	handle
+U2	Ronaldo
+Apple	iPhone
+peppermint	gum
+poster	paper
+UNICEF	root
+xenophobia	racism
+Woody Allen	lens
+lamp	genie
+navy	island
+wall	castle
+dinosaur	elephant
+clock tower	stone
+Middle East	Euphrates
+meadow	grassland
+guitar	violin
+diplomacy	negotiation
+gravity	meteor
+IQ	Mensa
+Union Jack	flag
+earthquake	tremor
+asset	stock
+Hebrew	Jerusalem
+overcast	forecast
+dictionary	encyclopedia
+mint	museum
+chair	stool
+Spanish	moisture
+can	bottle
+fly	ant
+myth	satire
+city center	bus
+tail	Boeing 747-200
+artwork	artist
+NATO	alliance
+king	ruler
+rhythm	cadence
+Alexander Fleming	Penicillin
+flute	music
+gray heron	lake
+viscosity	splash
+hardware	case
+ring	engagement
+Latin	German
+working class	plant
+Shakespeare	Dickens
+paper money	priest
+tool	job
+pygmy hog	suidae
+suffrage	exit
+star	brightness
+trout	guitar
+dollar	millionaire
+digit	number
+gale	blanket
+Obama	Clinton
+supporting character	movie
+Juventus	Bayern Munich
+climate change	precipitation
+AI	battery
+masterpiece	Mona Lisa
+crime	attack
+coronation	water
+vocalist	staff
+playoff	basketball
+armed forces	defence
+lake	cloud
+monastery	shower
+mother tongue	language
+harbor	wrapper
+demon	angel
+cryptogram	symbol
+campus	university
+freedom	liberty
+typhoon	cyclone
+handbook	guidebook
+Ebola	Ebola virus
+princess	biscuit
+train	tram
+ecosystem	economy
+queen regnant	chess queen
+gold	zinc
+cursor	chips
+Amazon	forest
+tennis	statistics
+Bolzano	theorem
+altitude	conversion
+boat	tree
+throne	sword
+cotton	sweater
+cherry	strawberry
+Islam	Quran
+Neanderthal	sport
+nepotism	king
+character	person
+tank	car
+Mercury	Jupiter
+bronchitis	acetaminophen
+blood	body
+islamophobia	ISIS
+crochet	uniform
+Hadoop	touchscreen
+fossil fuel	fossil
+mutant	sociobiology
+sister	brother
+pencil	story
+eczema	dermatitis
+emperor	governor
+crown	key
+algebra	operation
+piston	engine
+scholarship	tuition
+book	manuscript
+lantana	snapdragon
+black hole	vacuum
+Persian Empire	Cyrus
+editorial	news
+decoration	envelope
+whale shark	lobster
+corn	maize
+bipolar disorder	problem
+acid	base
+absolute zero	vapor
+Green Revolution	paint
+operating system	deep learning
+International Mathematical Olympiad	theory
+El Niño	equator
+badge	glass
+mansion	sculptor
+atmosphere	ozone
+shield	buckler
+coin	payment
+oat	field
+monk	cross
+gunboat	coast
+rock	mine
+legend	moral
+champion	winner
+dice	cube
+topology	structure
+chapel	cable
+cash flow	river
+serial killer	murderer
+matrix	molecule
+fashion	style
+vexillology	flag
+Maastricht Treaty	Europe
+geyser	spring
+sucrose	carbohydrate
+beach	coast
+stock market	stock exchange
+tradition	handicraft
+novel	writer
+sandwich	Subway
+acoustics	sound
+fencing	gymnastics
+writer	gift
+woodland	Tiger Woods
+cloud	window
+JPEG	PDF
+director	boss
+tax	Brexit
+pollination	stamen
+videogame	pc game
+treatment	surgical operation
+paddy	potato
+note-taking	assignment
+fox	blood cell
+sodium chloride	salt
+income	quality of life
+will	intention
+compass	elephant
+sequel	camera
+movie	film
+sergeant	gun
+mill	seed
+ice cream	breakfast
+key	lock
+cellphone	telephone
+kindergarten	preschool
+Western world	Western Union
+seedling	leaf
+rain	hail
+happiness	sadness
+silkworm	caterpillar
+surfing	water sport
+car	truck
+food	program
+graphic novel	comic book
+snake	lizard
+pineapple	smartphone
+wallpaper	background
+Celsius	Microsoft
+combine	sugarcane
+jeans	woman
+matrix	vector
+carbon dioxide	CO2
+coach	player
+stone	wood
+charger	disk
+manuscript	article
+Gmail	Yahoo
+capacitor	diode
+corruption	fraud
+Coca-Cola	Coke
+Plato	Aristotle
+Cold War	Soviet Union
+nozzle	fluid
+phonology	screen
+Zara	leggings
+football	soccer
+germ	pathogen
+republic	duke
+ball	sphere
+Mozart	Star Wars
+mask	party
+Grand Theft Auto	GTA
+highway	road
+chain reaction	thermodynamics
+illustration	blister
+anthropology	archaeology
+Dell	Dingle
+juice	spoon
+Pfizer	drug
+truck	parcel
+receptor	protein molecule
+Google Drive	driver
+billionaire	homeless
+episode	chapter
+infinity	zero
+servant	slave
+suffix	affix
+global warming	heat
+growth hormone	somatotropin
+sky	dream
+bid price	London
+fertilizer	growth
+hashtag	topic
+Orion	constellation
+Nietzsche	Chelsea
+mutual respect	competition
+branch	arm
+victim	phone
+standard deviation	accumulation
+avalanche	snow
+teacher	student
+cattle	yogurt
+sexism	gender discrimination
+South Pole	dance
+prosecutor	lawyer
+racket	ball
+bank loan	debt
+perspective	distance
+Federer	Dylan
+lawyer	gallery
+life expectancy	statistical measure
+cell membrane	provirus
+European Union	Moscow
+world	Asia
+Paint	Photoshop
+senate	constitution
+parsley	muffin
+mind	brain
+Mercedes	Opel
+hammer	teeth
+Renaissance	Renascence
+skirt	watch
+opera	cinema
+teacher	instructor
+Sun	cable
+recession	GDP
+Caesar	Julius Caesar
+patient	session
+behaviourism	therapy
+emperor	constitution
+mathematician	show
+entropy	information
+rosewater	rose oil
+citrus fruit	grapefruit
+Queen Victoria	England
+Olympic Games	spirit
+bishop	muslim
+man	suspect
+meteorite	Earth
+symbol	sign
+anthropology	New York
+sunset	table
+town	city
+jacket	mineral water
+nature	flora
+subroutine	compiler
+Hamadan	Rome
+umbrella	heater
+honor	esteem
+insignia	dignity
+KFC	McDonald's
+joystick	radar
+basmati	jasmine rice
+medal	trainers
+law	swimming pool
+source	box
+theatre	battery
+flora	web browser
+shirt	cardigan
+poem	rhythm
+prophet	priest
+Oscars	stadium
+backgammon	Go
+butterfly	rose
+fence	jumping
+nihilism	film
+asteroid	star
+riot	drawing
+underwear	body
+Boeing	plane
+cameo	performance
+semester	term
+orange	citrus
+glacier	global warming
+tunnel	path

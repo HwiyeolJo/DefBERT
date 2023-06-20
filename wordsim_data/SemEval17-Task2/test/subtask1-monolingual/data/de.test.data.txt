@@ -1,0 +1,500 @@
+Joule	Raumschiff
+gelobtes Land	Baku
+Auto	Fahrrad
+Polyeder	Actant
+Multiple Sklerose	MS
+Schuld	System
+Waffe	Helm
+Drehbuchautor	Fernseher
+Vereinte Nationen	Ban Ki-moon
+33-Bogen-Brücke	Mathematiker-Brücke
+Basilika	Mosaik
+Aquarell	Pinsel
+Demokratie	Monarchie
+Gauss	Wissenschaftler
+Tuberkulose	LED
+selbstfahrendes Auto	Roboterauto
+Weltuntergang	Feuer
+Geschwindigkeit	Post
+PlayStation	Wii
+Laptop	Notebook
+Harry Potter	Zauberer
+Snowboard	Skifahren
+Zeiger	Präsentationsfolie
+Sensor	Radiator
+Erfolg	Rahmen
+Theorie	Hypothese
+Wall Street	Finanzmarkt
+Darwin	Evolution
+Schauspieler	Schauspielerin
+Film	Theater
+Nationalhymne	Patriotismus
+Bildschirm	Monitor
+Milchprodukt	Honig
+Mount Everest	Chomolungma
+Tauziehen	Leiterspiel
+Pestizid	Pest
+Polizist	Politiker
+Neuropsychologie	Parapsychologie
+Batterie	Energie
+Ehrenlegion	Schreibwaren
+Spider-Man	Strasse
+Halbinsel	Insel
+Equator	Ecuador
+Tabelle	Diagramm
+Simulation	Robotik
+Nike	Adidas
+Gesellschaft	Kultur
+Strategiespiel	Strategie
+Kirche	Kathedrale
+Übersetzer	Ausländer
+Biotop	Biologie
+Magma	Vulkan
+Brainstorming	Teleskop
+Level	Punktezahl
+Pfennig	Schnäppchen
+politische Partei	Vereinigung
+Tsunami	Meer
+Strauss	Obstgarten
+Zimt	Süssigkeiten
+Besen	Staub
+Galaxie	Astronom
+Saft	Milchshake
+Jalousie	Vorhang
+Verbrecher	Angreifer
+Bauchspeicheldrüsenkrebs	Chemotherapie
+Vergangenheit	Vorläufer
+Vereinte Nationen	Europäisches Parlament
+Lied	Darsteller
+Pistole	Notizbuch
+Azetylcholin	Iris
+Alphabet	Stift
+Chor	Sänger
+Holz	Decke
+Soldat	Frieden
+Englisch	Amerikanisch
+Eidechse	Krokodil
+Geld	Bargeld
+Paul die Krake	Krake
+Kalender	Ferien
+Basis	chemische Substanz
+Regierung	Eidechse
+JPY	Geldwäsche
+DeepMind	Google DeepMind
+Schachspiel	Schach
+Sonnett	Schönheit
+Arbeiter	Büro
+Währung	Umtausch
+Polyester	Baumwolle
+Strafgericht	Gerechtigkeit
+Schwanz	Rückseite
+Unfall	Buch
+Windbö	Wind
+Klavier	Harmonie
+Sultan	Ministerium
+Wüste	Düne
+Multiplikation	Teilung
+Virus	Blut
+Eiszeit	Statue
+Schwert	Umwelt
+Primarschule	Kugelschreiber
+Cricket	Unterstützer
+Skulptur	Statue
+Webbrowser	Mozilla Firefox
+Foxterrier	Canon
+HSBC	Britannien
+Bibel	Gospel
+Kleid	Tanz
+Array	Liste
+Zelle	Gefängnis
+Aufsatz	Hausaufgaben
+Computer	Maschine
+Pandabär	Eisbär
+Neurose	Verstand
+Kampagne	Affe
+Faraday-Konstante	Rucksack
+Palast	Wolkenkratzer
+Helikopter	Flugzeug
+University of Cambridge	Oxford University
+Flagge	Fahnenstange
+Fenster	Dach
+Kartenspiel	Frisbee
+Schadprogramm	Wurm
+Planet	Stern
+Renner	Athlet
+Kaliber	Regenschirm
+WiFi	WikiLeaks
+Dürre	Wasser
+Flughafen	Stück
+Orchester	Band
+Mojito	Mochito
+Unterrichtsstoff	Prüfung
+Theorem	Theorie
+Jo-Jo	Spielzeug
+Schneesturm	Regen
+Historiker	Geschichtsschreiber
+Siemens	Elektrolokomotive
+Jahrhundert	Jahr
+Legierung	Stahl
+Friedensrichter	Richter
+Chaos	Klasse
+Fernunterricht	Internet
+Sand	Fuss
+IMF	Deutsche Bank
+Guardian	Times
+Seidenraupe	Seidenstrasse
+Freiheit	Oase
+Cytoplasma	Ziffer
+Protestant	Christ
+Leonardo da Vinci	Das Abendmahl
+Karte	Viereck
+Parlament	Congress
+Finanzmittelbeschaffung	Entwicklung
+Pathologie	Hämatologie
+Tal	Depression
+Teleskop	Sitz
+Heavy Metal	Bühne
+Globalisierung	Visa
+Fledermaus	Vampir
+Abgeordneter	Beamte
+Elektrizität	Gehäuse
+Ausserirdischer	Outlander
+Knopf	Nähmaschine
+Zauberer	Kabel
+Philosoph	Rennen
+Popcorn	Kino
+Landwirtschaft	Pflanze
+Dichter	Journalist
+Wetter	Welle
+Zivilisation	Lebensstil
+Schnee	Eis
+Zweiter Weltkrieg	Beethoven
+Motherboard	Mainboard
+Club	Markierung
+Alexander der Grosse	Eroberer
+Applikation	Galaxie
+Cloudcomputing	Regen
+Fernsehen	Schauspieler
+Delta	Meer
+Strickgarn	Faden
+Fussgängerstreifen	Person
+Protein	Griff
+U2	Ronaldo
+Apple	iPhone
+Pfefferminze	Kaugummi
+Poster	Papier
+UNICEF	Wurzel
+Fremdenfeindlichkeit	Rassismus
+Woody Allen	Linse
+Lampe	Geist
+Marine	Insel
+Wand	Schloss
+Dinosaurier	Elephant
+Uhrturm	Stein
+Nahost	Euphrates
+Weide	Graslandschaft
+Gitarre	Geige
+Diplomatie	Verhandlung
+Anziehungskraft	Meteor
+IQ	Mensa
+Union Jack	Flagge
+Erdbeben	Erschütterung
+Vermögen	Aktie
+Hebräisch	Jerusalem
+bedeckt	Wetterprognose
+Wörterbuch	Enzyklopädie
+Münzamt	Museum
+Sessel	Hocker
+Spanisch	Feuchtigkeit
+Büchse	Flasche
+Fliege	Ameise
+Mythos	Satire
+Innenstadt	Bus
+Schwanz	Boeing 747-200
+Kunstwerk	Künstler
+NATO	Allianz
+König	Herrscher
+Rhythmus	Kadenz
+Alexander Fleming	Penicillin
+Flöte	Musik
+Graureiher	See
+Dickflüssigkeit	Spritzer
+Hardware	Gehäuse
+Ring	Verlobung
+Latein	Deutsch
+Arbeiterklasse	Fabrik
+Shakespeare	Dickens
+Papiergeld	Pfarrer
+Werkzeug	Arbeit
+Zwergwildschwein	Echte Schweine
+Stimmrecht	Ausgang
+Stern	Helligkeit
+Forelle	Gitarre
+Dollar	Millionär
+Ziffer	Nummer
+Sturm	Decke
+Obama	Clinton
+Nebenfigur	Film
+Juventus	Bayern München
+Klimawandel	Niederschlag
+AI	Batterie
+Meisterwerk	Mona Lisa
+Verbrechen	Attacke
+Krönung	Wasser
+Sänger	Personal
+Stichkampf	Basketball
+bewaffnete Streitkräfte	Abwehr
+See	Wolke
+Kloster	Dusche
+Muttersprache	Sprache
+Hafen	Hülle
+Dämon	Engel
+Kryptogramm	Symbol
+Campus	Universität
+Freiheit	Bewegungsfreiheit
+Taifun	Windhose
+Anleitung	Reiseführer
+Ebola	Ebola Virus
+Prinzessin	Keks
+Zug	Tram
+Ecosystem	Wirtschaft
+herrschende Königin	Schachdame
+Gold	Zink
+Maus	Chips
+Amazonas	Wald
+Tennis	Statistik
+Bolzano	Theorem
+Höhe	Umformung
+Boot	Baum
+Thron	Schwert
+Baumwolle	Pullover
+Kirsche	Erdbeere
+Islam	Koran
+Neanderthaler	Sport
+Vetternwirtschaft	König
+Charakter	Person
+Panzer	Auto
+Merkur	Jupiter
+Bronchitis	Paracetamol
+Blut	Körper
+Islamophobie	ISIS
+Häkeln	Uniform
+Hadoop	Touchscreen
+fossiler Brennstoff	Fossil
+Mutant	Soziobiologie
+Schwester	Bruder
+Bleistift	Geschichte
+Hautausschlag	Hautentzündung
+Imperator	Gouverneur
+Krone	Schlüssel
+Algebra	Operation
+Kolben	Motor
+Stipendium	Unterrichtsgebühr
+Buch	Manuskript
+Wandelröschen	Löwenmäuler
+schwarzes Loch	Vacuum
+persisches Reich	Cyrus
+Leitartikel	Nachrichten
+Dekoration	Umschlag
+Walhai	Hummer
+Getreide	Mais
+bipolare Störung	Problem
+Säure	Base
+absoluter Nullpunkt	Dampf
+grüne Revolution	Farbe
+Betriebssystem	Deep Learning
+internationale Mathematik Olympiade	Theorie
+El Niño	Äquator
+Abzeichen	Glass
+Villa	Bildhauer
+Atmosphäre	Ozon
+Schild	Beschützer
+Münze	Bezahlung
+Hafer	Feld
+Mönch	Kreuz
+Kanonboot	Küste
+Stein	Mine
+Legende	Moral
+Meister	Gewinner
+Würfel	Kubik
+Topologie	Struktur
+Kapelle	Kabel
+Geldfluss	Fluss
+Serienmörder	Mörder
+Matrix	Molekül
+Mode	Stil
+Flaggenkunde	Flagge
+Vertrag von Maastricht	Europa
+Geisir	Quelle
+Saccharose	Kohlenhydrat
+Strand	Küste
+Aktienmarkt	Börse
+Tradition	Handwerk
+Roman	Schriftsteller
+Butterbrot	Subway
+Akustik	Ton
+Fechten	Gymnastik
+Autor	Geschenk
+Gehölz	Tiger Woods
+Wolke	Fenster
+JPEG	PDF
+Regisseur	Chef
+Steuer	Brexit
+Bestäubung	Staubblatt
+Videospiel	PC Spiel
+Behandlung	chirurgischer Eingriff
+Reisfeld	Kartoffel
+Notizen	Aufgabe
+Fuchs	Blutkörperchen
+Natriumchlorid	Salz
+Einkommen	Lebensqualitàt
+Wille	Absicht
+Kompass	Elephant
+Fortsetzung	Kamera
+Kinofilm	Film
+Unteroffizier	Pistole
+Mühle	Korn
+Eiscreme	Frühstück
+Schlüssel	Schloss
+Mobiltelefon	Telefon
+Kindergarten	Vorschule
+Westliche Welt	Western Union
+Sämling	Blatt
+Regen	Hagel
+Freude	Traurigkeit
+Seidenraupe	Raupe
+Surfen	Wassersport
+Auto	Lastwagen
+Nahrung	Programm
+Comicroman	Comic
+Schlange	Eidechse
+Ananas	Handy
+Wallpaper	Hintergrund
+Celsius	Microsoft
+verbinden	Zuckerrohr
+Jeans	Frau
+Matrix	Vector
+Kohlendioxid	CO2
+Trainer	Spieler
+Stein	Holz
+Ladegerät	Scheibe
+Manuskript	Artikel
+Gmail	Yahoo
+Kondensator	Diode
+Korruption	Betrug
+Coca-Cola	Coke
+Plato	Aristoteles
+Kalter Krieg	Soviet Union
+Düse	Flüssigkeit
+Phonologie	Bildschirm
+Zara	Leggings
+Football	Fussball
+Keim	Erreger
+Republik	Herzog
+Ball	Sphäre
+Mozart	Star Wars
+Maske	Fest
+Grand Theft Auto	GTA
+Autobahn	Strasse
+Kettenreaktion	Thermodynamik
+Illustration	Ampulle
+Anthropologie	Archeologie
+Dell	Dingle
+Saft	Löffel
+Pfizer	Medikament
+Lastwagen	Packet
+Rezeptor	Protein-Molekül
+Google Drive	Fahrer
+Milliardär	Obdachloser
+Episode	Kapitel
+Unendlichkeit	Null
+Diener	Sklave
+Suffix	Affix
+Klimaerwärmung	Hitze
+Wachstumshormon	Somatropin
+Himmel	Traum
+Geldkurs	London
+Dünger	Wachstum
+Gartenhag	Thema
+Orion	Sternbild
+Nietzsche	Chelsea
+gegenseitiger Respekt	Wettbewerb
+Ast	Arm
+Opfer	Telefon
+Normalabweichung	Kumulation
+Lawine	Schnee
+Lehrer	Schüler
+Vieh	Joghurt
+Sexismus	Geschlechtsdiskriminierung
+Südpol	Tanz
+Staatsanwalt	Anwalt
+Schläger	Ball
+Bankkredit	Schulden
+Perspektive	Entfernung
+Federer	Dylan
+Anwalt	Galerie
+Lebenserwartung	statistisches Mass
+Zellmembran	Provirus
+Europäische Union	Moskau
+Welt	Asien
+Paint	Photoshop
+Senat	Verfassung
+Petersilie	Muffin
+Verstand	Gehirn
+Mercedes	Opel
+Hammer	Zahn
+Renaissance	Wiedergeburt
+Rock	Uhr
+Oper	Kino
+Lehrer	Ausbilder
+Sonne	Kabel
+Wirtschaftskrise	BIP
+Cäsar	Julius Cäsar
+Patient	Sitzung
+Behaviorismus	Therapie
+Kaiser	Verfassung
+Mathematiker	Aufführung
+Entropie	Information
+Rosenwasser	Rosenöl
+Zitrusfrucht	Pampelmuse
+Königin Victoria	England
+Olympische Spiele	Gemütsart
+Bischof	Muslime
+Mann	Verdächtiger
+Meteorit	Erde
+Symbol	Zeichen
+Anthropologie	New York
+Sonnenuntergang	Tisch
+Stadt	Grossstadt
+Jacke	Mineralwasser
+Natur	Flora
+Unterprogramm	Kompilierer
+Hamedan	Rom
+Regenschirm	Heizer
+Ehre	Ansehen
+Rangabzeichen	Würde
+KFC	McDonald's
+Steuerknüppel	Radar
+Basmatireis	Jasminreis
+Medaille	Turnschuhe
+Gesetz	Schwimmbad
+Quelle	Schachtel
+Theater	Batterie
+Flora	Webbrauser
+Hemd	Cardigan
+Gedicht	Rhythmus
+Prophet	Pfarrer
+Oscars	Stadium
+Backgammon	Go
+Schmetterling	Rose
+Hag	Springen
+Nihilismus	Film
+Asteroid	Stern
+Aufstand	Zeichnung
+Unterwäsche	Körper
+Boeing	Flugzeug
+Auftritt	Aufführung
+Semester	Amtszeit
+Orange	Zitrusfrucht
+Gletscher	Erderwärmung
+Tunnel	Pfad

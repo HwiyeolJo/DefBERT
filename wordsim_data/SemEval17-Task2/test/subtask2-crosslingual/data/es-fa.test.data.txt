@@ -1,0 +1,914 @@
+algodón	پلی‌ستر
+episodio	فصل
+escoba	خاک
+pomo	پروتئین
+profeta	کشیش
+ordenador portátil	لپ‌تاپ
+negociación	دیپلماسی
+trabajo	ابزار
+lago	ابر
+mar	دلتا
+voluntad	قصد
+activo	موجودی کالا
+esquí	اسنوبرد
+poema	وزن
+EM	اسکلروز چندگانه
+historiador	تاریخ‌نگار
+obra de arte	هنرمند
+atmósfera	ازن
+división	ضرب
+Grand Theft Auto	جی‌تی‌ای
+mono	کمپین
+efectivo	پول
+hielo	برف
+semestre	ترم‌تحصیلی
+río	جریان نقدی
+planta	طبقه کارگر
+pelota	راکت
+espíritu	بازی‌های المپیک
+batido	آبمیوه
+diapositiva	اشاره‌گر
+telescopio	طوفان فکری
+Oscars	استادیوم
+duna	بیابان
+Spider-Man	خیابان
+economía	اکوسیستم
+manual	کتاب راهنما
+demonio	فرشته
+historia	مداد
+agua de rosas	روغن گل‌سرخ
+FMI	دویچه بانک
+cítrico	گریپ‌فروت
+teoría	المپیاد جهانی ریاضی
+recesión	تولید ناخالص داخلی
+medicamento	فایزر
+instructor	معلم
+pistón	موتور
+Yahoo	جیمیل
+tanque	خودرو
+director	رئيس
+marco	اصابت
+esfera	توپ
+cáncer de páncreas	شیمی‌درمانی
+Europa	پیمان ماستریخت
+suidae	گراز کوتوله
+gráfica	گراف
+escenario	هوی متال
+redacción	تکلیف
+raíz	یونیسف
+Dickens	شکسپیر
+jersey	پنبه
+serpiente	مارمولک
+apuntes	تکلیف
+telescopio	صندلی
+mosaico	قصر سلطنتی
+televisión	بازیگر
+Times	گاردین
+criminal	خلافکار
+monasterio	دوش
+boca de dragón	شاه‌پسند
+lluvia	تگرگ
+violín	گیتار
+energía	باتری
+Biblia	انجیل
+conductismo	درمان
+túnel	مسیر
+actor	چندوجهی
+coronación	آب
+rey	خویشاوندسالاری
+coche	دوچرخه
+clase	آشفتگی
+inglés	آمریکایی
+puesta de sol	میز
+camión	ماشین
+bolígrafo	مدرسه ابتدایی
+sonido	صوت‌شناسی
+Woody Allen	لنز
+vehículo autónomo	خودروی خودگردان
+esclavo	خدمتکار
+mesa	غروب
+acuarela	قلمو
+libro	تصادف
+Roma	همدان
+fuente	جعبه
+Zara	ساق‌پوش
+árbol	قایق
+nubosidad	پيش‌‌بینی
+helicóptero	هواپیما
+molino	دانه
+piña	گوشی هوشمند
+caña de azúcar	کمباین
+juego de ordenador	بازی ویدئویی
+Julio César	سزار
+Orión	صورت فلکی
+Coca Cola	کوکا
+Nietzsche	چلسی
+base	ماده شیمیایی
+Bayern Munich	یوونتوس
+genio	لامپ
+sociobiología	جهش‌یافته
+Unión Europea	مسکو
+máquina de coser	دکمه
+Boeing	هواپیما
+distancia	پرسپکتیو
+universidad	پردیس دانشگاهی
+biotopo	بیولوژی
+Naciones Unidas	پارلمان اروپا
+estrella	روشنایی
+salida	رای
+canción	مجری
+molécula proteica	گیرنده
+objetivo	وودی آلن
+moraleja	افسانه
+agua	تاج‌گذاری
+pistola	گروهبان
+avalancha	برف
+patatas fritas	مکان‌نما
+crecimiento	کود
+campaña	میمون
+funda	الکتریسیته
+operación quirúrgica	درمان
+ozono	جو
+placa base	مادربورد
+persiana	پرده
+escudo	سپر
+brújula	فیل
+camino	تونل
+impuesto	برگزیت
+programa	غذا
+McDonald's	کی‌اف‌سی
+deuda	وام
+iPhone	اپل
+península	جزیره
+Pfizer	دارو
+mutante	زیست‌جامعه‌شناسی
+smartphone	سیب
+Hamedan	رم
+belleza	غزل
+guía	راهنما
+ministerio	سلطان
+esencia de rosas	گلاب
+juguete	یویو
+tren eléctrico	زیمنس
+acetilcolina	عنبیه
+muro	قلعه
+tormenta de ideas	تلسکوپ
+actor secundario	فیلم
+camisa	ژاکت
+juez	دادرس
+La Última Cena	لئوناردو‌دا‌وینچی
+biología	بیوتوپ
+poliedro	بازیگر
+campus	دانشگاه
+operación	جبر
+navegador web	موزیلا فایرفاکس
+vaqueros	زن
+neandertal	ورزش
+constante de Faraday	کوله‌پشتی
+seguidor	کریکت
+Polo Sur	رقص
+sufijo	وند
+isla	شبه‌جزیره
+Monte Everest	کومولانگما
+libertad	واحه
+batería	انرژی
+dedo	سيتوپلاسم
+Corán	اسلام
+teléfono	قربانی
+sistema	گسل
+base	اسید
+globalismo	روادید
+electricidad	جعبه
+taburete	صندلی
+anillo	عقد
+cultura	جامعه
+baile	لباس
+civilización	سبک زندگی
+hipótesis	نظریه
+arqueología	انسان‌شناسی
+castillo	ديوار
+espada	محیط
+temario	امتحان
+cine	اپرا
+sociedad	فرهنگ
+Juventus	بایرن‌مونیخ
+carretera	بزرگراه
+delincuente	مجرم
+Segunda Guerra Mundial	بتهوون
+sensor	رادیاتور
+estadística	تنیس
+dióxido de carbono	گازکربنیک
+críquet	حامی
+rascacielos	کاخ
+club	علامت
+basílica	موزائیک
+pronóstico	ابری
+autobús	مرکز شهر
+armonía	پیانو
+casco	سلاح
+torre del reloj	سنگ
+batería	هوش مصنوعی
+Mona Lisa	شاهکار
+regalo	نویسنده
+Obama	کلینتون
+poliéster	پنبه
+beca	شهریه
+secuela	دوربین
+revuelta	نقاشی
+constelación	شکارچی
+Éufrates	خاورمیانه
+estatua	مجسمه
+ácido	باز
+tribunal	عدالت
+boquilla	مایع
+pantalla	مانیتور
+novela gráfica	کتاب کامیک
+surf	ورزش آبی
+Islam	قرآن
+insignia	کرامت
+persona	گذرگاه عابران پیاده
+asociación	حزب سیاسی
+bebida de cola	کوکاکولا
+balón	کره
+tradición	صنایع دستی
+mujer	شلوار جین
+llave	تاج‌
+Ciro	امپراتوری ایران
+vexilología	پرچم
+aeropuerto	قطعه
+centavo	معامله
+información	آنتروپی
+fonología	صفحه نمایش
+Imperio persa	کورش
+autovía	جاده
+dados	مکعب
+PDF	جی‌پگ
+musulmán	اسقف
+banda	ارکستر
+hematología	آسیب‌شناسی
+Si-o-seh pol	پل ریاضی
+ceca	موزه
+artista	آهنگ
+protestante	مسیحی
+meteorito	گرانش
+trabajador	دفتر
+hormona del crecimiento	سوماتوتروپین
+soneto	زیبایی
+Tiger Woods	بیشه‌زار
+compromiso	انگشتر
+botón	چرخ‌خیاطی
+víctima	تلفن
+Guerra de las Galaxias	موتزارت
+pueblo	شهر
+depresión	دره
+radiador	حسگر
+cloruro de sodio	نمک
+película	پوچ‌گرایی
+astrónomo	کهکشان
+piscina	قانون
+ritmo	آهنگ
+criado	غلام
+hashtag	موضوع
+capítulo	بخش
+museo	ضرابخانه
+lagartija	دولت
+Boeing 747-200	دم
+playa	ساحل
+pomelo	مرکبات
+desarrollo	جذب سرمایه
+envoltorio	بندرگاه
+tren	تراموا
+navegador web	گیا
+helado	صبحانه
+tristeza	خوشحالی
+flora	مرورگر وب
+galleta	شاهزاده
+vacaciones	تقویم
+portátil	رایانه کیفی
+antropología	نیویورک
+estilo	مد
+zinc	طلا
+Mozart	جنگ ستارگان
+cosechadora	نیشکر
+Gmail	یاهو
+puerto	لفاف
+profesor	دانش‌آموز
+fresa	گیلاس
+tarea	یادداشت‌برداری
+discriminación de género	تبعیض جنسیتی
+espectáculo	ریاضی‌دان
+blanqueo de dinero	ین
+artículo	نسخه خطی
+sobre	دکوراسیون
+Moscú	اتحادیه اروپا
+Opel	مرسدس
+álgebra	عمل
+yoyó	اسباب‌بازی
+magma	آتش‌فشان
+citoplasma	انگشت
+hilo	نخ
+CO2	دی‌اکسید کربن
+teléfono	تلفن همراه
+papel	پوستر
+salto	حصار
+oso polar	پاندا
+golpe	قاب
+tuberculosis	ال‌ای‌دی
+ritmo	شعر
+máquina	رایانه
+conquistador	اسکندرکبیر
+cable	جادوگر
+camión	بسته
+campeón	برنده
+obispo	مسلمان
+mente	اختلال اعصاب
+gusano de seda	کرم پیله ساز
+decoración	پاکت نامه
+iglesia	کلیسای جامع
+lata	بطری
+corona	کلید
+extranjero	مترجم
+artista	اثر هنری
+receptor	ملکول پروتئین
+examen	سرفصل دروس
+número	رقم
+tebeo	داستان مصور
+Ban Ki-moon	سازمان ملل متحد
+corrupción	کلاه‌برداری
+competición	احترام متقابل
+estudiante	معلم
+planeta	ستاره
+medio ambiente	شمشیر
+naranja	مرکبات
+isla	نیروی دریایی
+idioma	زبان مادری
+hebreo	بیت‌المقدس
+cero absoluto	بخار
+nieve	بهمن
+moda	سبک
+perspectiva	فاصله
+cero	بینهایت
+escultura	تندیس
+calle	مرد عنکبوتی
+pradera	علف‌زار
+langosta	کوسه نهنگ
+Go	تخته نرد
+plaza	نقشه
+prado	چمن‌زار
+cereza	توت‌فرنگی
+abogado	دادستان
+membrana plasmática	پروویروس
+ecosistema	اقتصاد
+sacerdote	پیامبر
+entrenador	بازیکن
+señal	سمبل
+Londres	قیمت پیشنهادی خرید
+flauta	موسیقی
+estilo de vida	تمدن
+quimioterapia	سرطان لوزالمعده
+germen	پاتوژن
+acústica	صدا
+pantalla	صداشناسی
+madera	پتو
+acetaminofeno	برونشیت
+intercambio	پول
+defensa	نیروهای مسلح
+celda	زندان
+Jerusalén	عبری
+princesa	بیسکویت
+simulación	رباتیک
+Dingle	دل
+tenis	آمار
+constitución	امپراتور
+Alexander Fleming	پنی‌سیلین
+Evangelio	کتاب مقدس
+deporte acuático	موج‌سواری
+gusano de seda	راه ابریشم
+Mercedes	اوپل
+orquesta	گروه‌موسیقی
+filósofo	مسابقه
+actor	هنرپیشه‌
+arma	دفتریادداشت
+maíz	جواری
+Deutsche Bank	صندوق بین‌المللی پول
+dígito	عدد
+leyenda	پند
+sacerdote	اسکناس
+paraguas	بخاری
+americano	انگلیسی
+teoría	قضیه
+oso panda	خرس قطبی
+estadio	اسکار
+vaso	نشان
+bolsa	بازار بورس
+flujo de caja	رودخانه
+Renacimiento	رنسانس
+gimnasia	شمشیربازی
+agricultura	گیاه
+siglo	سال
+emperador	قانون اساسی
+guionista	تلویزیون
+iris	استیل کولین
+gráfico	چارت
+marina	جزیره
+avión	هلی‌کوپتر
+hoja	جوانه
+tifón	طوفان موسمی
+gravedad	شهاب
+diccionario	دایرةالمعارف
+vampiro	خفاش
+fósil	سوخت فسیلی
+lluvia	کولاک
+correo	سرعت
+sangre	بدن
+político	پليس
+ganador	قهرمان
+cable	نمازخانه
+oasis	آزادی
+hilado	رشته
+preescolar	کودکستان
+neurosis	ذهن
+escuela primaria	مداد
+fertilizante	رشد
+glóbulo	روباه
+latín	آلمانی
+brillo	ستاره
+manuscrito	کتاب
+gobernador	امپراطور
+cristiano	پروتستان
+malware	کرم
+Júpiter	عطارد
+El Niño	خط‌استوا
+diplomacia	مذاکره
+Hadoop	صفحه لمسی
+persona	شخصیت
+parapsicología	نوروسایکولوژی
+subrutina	کامپایلر
+pulpo	پاولِ هشت‌پا
+Ronaldo	یوتو
+jefe	مدیر
+apocalipsis	آتش
+Mensa	آی‌کیو
+manuscrito	مقاله
+llave	قفل
+batería	تئاتر
+televisión	نمایشنامه‌نویس
+bronquitis	استامینوفن
+Tierra Prometida	باکو
+cursor	چیپس
+diodo	خازن
+cerebro	ذهن
+ducha	صومعه
+símbolo	نشانه
+martillo	دندان
+antropología	باستان‌شناسی
+LED	سل
+Guardian	تایمز
+sargento	تفنگ
+sufragio	خروج
+deporte	نئاندرتال
+Chomolungma	کوه اورست
+año	قرن
+dientes	چکش
+libertad	آزادی
+palomitas	سینما
+ángel	اهریمن
+dignidad	نشان افتخار
+cantante	گروه کر
+renta	کیفیت زندگی
+coro	خواننده
+EI	اسلام‌هراسی
+mina	سنگ
+Nueva York	انسان‌شناسی
+Unión Soviética	جنگ سرد
+arma	کلاه‌ ایمنی
+raqueta	توپ
+lagartija	مار
+estrategia	بازی استراتژیکی
+profesor	آموزگار
+vapor	صفر مطلق
+U2	رونالدو
+costa	کنار دریا
+bosque	آمازون
+volcán	ماگما
+computación en la nube	باران
+préstamo bancario	قرض
+Amazonas	جنگل
+multiplicación	تقسیم
+planta	کشاورزی
+uniforme	قلاب‌دوزی
+chicle	نعناع فلفلی
+murciélago	خون‌آشام
+gobernante	پادشاه
+billete	کشیش
+Gran Bretaña	اچ‌اس‌بی‌سی
+Harry Potter	جادوگر
+techo	پنجره
+visa	جهانی‌گرایی
+música	فلوت
+motor	پیستون
+hombre	مظنون
+problema	اختلال دوقطبی
+sacarosa	کربوهیدرات
+carreras	فیلسوف
+Google Drive	راننده
+avena	مزرعه
+Julio	فضاپیما
+costa	ناوچه توپدار
+personal	سراینده
+videojuego	بازی کامپيوتری
+herramienta	شغل
+trono	شمشیر
+conversión	ارتفاع
+delta	دریا
+intención	خواست
+garza real	دریاچه
+molécula	ماتریس
+agua mineral	ژاکت
+Brexit	مالیات
+Internet	یادگیری از راه دور
+vector	ماتریس
+Beethoven	جنگ جهانی دوم
+lámpara	جن
+moneda	بورس
+virus del Ébola	ابولا
+mago	کابل
+teorema	بولتسانو
+madera	سنگ
+libro	کتاب خطی
+esclerosis múltiple	ام‌اس
+ganchillo	لباس فرم
+chaqueta	آب‌ معدنی
+fraude	فساد
+himno nacional	میهن‌دوستی
+provirus	غشای سلول
+lengua materna	زبان
+semilla	کارخانه
+ajedrez	کیش
+galaxia	منجم
+sospechoso	مرد
+géiser	چشمه
+afijo	پسوند
+trastorno bipolar	مشکل
+sustancia química	باز
+mariposa	رز
+fuerzas armadas	دفاع
+asesino	قاتل زنجیره‌ای
+jugador	مربی
+patógeno	بیمارگر
+Nike	آدیداس
+mansión	مجسمه ساز
+Universidad de Cambridge	دانشگاه آکسفورد
+brocha	آبرنگ
+enciclopedia	واژه‌نامه
+campo	جو
+IA	باتری
+matriz	ملکول
+nepotismo	پادشاه
+valle	فرورفتگی
+Celsius	مایکروسافت
+hormiga	مگس
+Sol	کابل
+matriz	بردار
+emperador	فرماندار
+dinosaurio	فیل
+lagarto	تمساح
+bocadillo	ساب‌وی
+deberes	انشا
+maremoto	دریا
+canela	آب‌نبات
+cruz	راهب
+vagabundo	میلیاردر
+teatro	باتری
+piedra	برج‌ساعت
+glaciar	گرمایش جهانی
+precio de licitación	لندن
+agua	خشکسالی
+escritor	رمان
+avestruz	باغ سیب
+atleta	دونده
+PlayStation	وی
+magistrado	قاضی
+existencias	دارایی
+tranvía	قطار
+ganga	پنی
+Parlamento Europeo	سازمان ملل متحد
+obra maestra	مونالیزا
+vocalista	کارمند
+marca	باشگاه
+pieza	فرودگاه
+puntero	اسلاید
+sangre	ویروس
+ilustración	تاول
+rey	فرمانروا
+proteína	دستگیره
+patología	خون‌شناسی
+pintura	انقلاب سبز
+backgammon	گو
+cuerpo	خون
+máscara	مهمانی
+cocodrilo	مارمولک
+rebeca	لباس
+radar	جوی‌استیک
+roca	معدن
+partido político	انجمن
+condensador	دیود
+Asia	جهان
+zumo	میلک‌شیک
+juego de estrategia	استراتژی
+mojito	موخیتو
+trucha	گیتار
+GTA	اتومبیل‌دزدی بزرگ
+mundo occidental	وسترن یونیون
+constitución	مجلس سنا
+monje	سلیب
+guitarra	ویولن
+avión	بوئینگ
+mosca	مورچه
+revolución verde	رنگ
+matrícula	بورس تحصیلی
+Apple	آیفون
+placa madre	برداصلی
+polvo	جارو
+jabalí enano	گراز
+PIB	بحران اقتصادی
+bolígrafo	الفبا
+fiscal	وکیل
+menta	آدامس
+capilla	سیم
+comida	برنامه
+Leonardo da Vinci	شام آخر
+tratamiento	عمل جراحی
+Ruta de la Seda	کرم ابریشم
+botella	قوطی
+Western Union	جهان غرب
+lantana	میمونی
+justicia	محکمه
+oficina	کارمند
+neuropsicología	فراروانشناسی
+respeto mutuo	رقابت
+dama	ملکه سلطنتی
+Adidas	نایک
+aplicación	کهکشان
+Google DeepMind	ديپ‌مایند
+valla	پرش
+cámara	دنباله
+carbohidrato	ساکارز
+dermatitis	اگزما
+calidad de vida	درآمد
+UNICEF	ریشه
+radiador	چتر
+pantalla táctil	هدوپ
+centro	اتوبوس
+Photoshop	پینت
+Alejandro Magno	فاتح
+mente	مفز
+lago	حواصیل خاکستری
+rosa	پروانه
+elefante	قطب‌نما
+Paint	فتوشاپ
+zorro	سلول خون
+ordenador	دستگاه
+Baku	سرزمین موعود
+Reina Victoria	انگلیس
+cielo	خواب
+Mercurio	مشتری
+hermana	برادر
+broquel	محافظ
+piedra	چوب
+accidente	کتاب
+jardín de infancia	پيش‌دبستان
+Tratado de Maastricht	اروپا
+borrasca	باد
+recaudación de fondos	توسعه
+Platón	ارسطو
+fuego	آخرالزمان
+oruga	کرم ابریشم
+heavy metal	صحنه
+desayuno	بستنی
+reacción en cadena	ترمودینامیک
+ampolla	تصویرسازی
+compilador	رویه
+Chelsea	نیچه
+falla	سامانه
+velocidad	پست
+sueño	آسمان
+dibujo	شورش
+historiógrafo	مورخ
+guitarra	قزل‌آلا
+escultor	عمارت
+ciudad	شهرک
+ventana	ابر
+islamofobia	داعش
+Tierra	شهاب‌سنگ
+juego de la soga	مار و پله
+tiburón ballena	شاه‌میگو
+plántula	برگ
+Bolzano	قضیه
+coche autónomo	خودروی روباتیک
+combustible fósil	سنگواره
+terapia	رفتارگرایی
+novela	نویسنده
+coche	تانک
+español	رطوبت
+personaje	آدم
+basmati	برنج ژاسمین
+virus	خون‌
+cola	پشت
+teoría	فرضیه
+estatuto	عصر یخبندان
+esgrima	ژیمناستیک
+caos	کلاس
+papelería	لژیون دونور
+monarquía	دموکراسی
+desierto	تپه ماسه‌ای
+infinito	صفر
+cuchara	آبمیوه
+barco	درخت
+cola	بوئینگ ۷۴۷-۲۰۰
+Guerra Fría	شوروی
+hermano	خواهر
+caramelo	دارچین
+asesino en serie	قاتل
+calentamiento global	گرما
+snowboard	اسکی
+ópera	سینما
+mar	سونامی
+senado	قانون اساسی
+mojito	موهیتو
+actor	تلویزیون
+catedral	کلیسا
+bosque	تایگر وودز
+zumo	قاشق
+JPEG	پی‌دی‌اف
+felicidad	ناراحتی
+Shakespeare	دیکنز
+película	فیلم
+JPY	پولشویی
+calibre	چتر
+pulpo Paul	هشت‌پا
+bandera	پرچم‌شناسی
+ley	استخر
+película	نقش مکمل
+parlamento	کنگره
+CI	منسا
+cárcel	سلول
+bandera	پرچم انگلستان
+ventana	سقف
+calendario	تعطیلات
+terremoto	زلزله
+paquete	کامیون
+gobierno	مارمولک
+baloncesto	بازی حذفی
+cuerpo	لباس زیر
+tema	برچسب
+cítrico	پرتقال
+humedad	اسپانیایی
+meteorito	زمین
+asteroide	ستاره
+dólar	میلیونر
+sultán	وزارت
+cañonero	ساحل
+vestido	رقص
+editorial	اخبار
+cable	خورشید
+Ecuador	استوا
+nihilismo	فیلم
+moneda	پرداخت
+Juegos Olímpicos	روح
+Dell	دینگل
+ecuador	اکوادور
+cuaderno	تفنگ
+fiesta	نقاب
+Universidad de Oxford	دانشگاه کمبریج
+democracia	سلطنت
+Ébola	ویروس ابولا
+viento	بوران
+galería	وکیل
+Union Jack	پرچم
+móvil	تلفن
+desempate	بسکتبال
+piano	هارمونی
+Gauss	دانشمند
+paz	سرباز
+robótica	شبیه‌سازی
+mercado de valores	بورس اوراق بهادار
+ropa interior	بدن
+mapa	مربع
+república	دوک
+retaguardia	دم
+palacio	آسمان‌خراش
+nube	پنجره
+baile	قطب جنوب
+corredor	ورزشکار
+monitor	نمایشگر
+mochila	ثابت فارادی
+traductor	خارجی
+mago	هری پاتر
+entropía	اطلاعات
+glaciación	قانون
+escritor	هدیه
+duque	جمهوری
+Siemens	قطار برقی
+cambio climático	بارش
+Naciones Unidas	بان‌کی‌مون
+sequía	آب‌
+reina reinante	وزیر شطرنج
+calor	گرمایش جهانی
+Wii	پلی‌استیشن
+temblor	زمین‌لرزه
+congreso	پارلمان
+mundo	آسیا
+artesanía	سنت
+estrella	سیارک
+nieve	یخ
+tormenta de nieve	باران
+galaxia	اپ
+DeepMind	گوگل ديپ‌مایند
+bicicleta	ماشین
+arena	پا
+estambre	گرده‌افشانی
+aleación	فولاد
+Inglaterra	ملکه ویکتوریا
+arroz jazmín	باسماتی
+Olimpiada Internacional de Matemáticas	نظریه
+altitud	تبدیل
+ciclón	گردباد
+noticia	سرمقاله
+Serpientes y Escaleras	طناب‌کشی
+cerradura	کلید
+teorema	نظریه
+alemán	لاتین
+emblema	شیشه
+coche	کامیون
+Subway	ساندویچ
+somatotropina	هورمون رشد
+acero	آلیاژ
+patriotismo	سرود ملی
+largometraje	فیلم سینمایی
+penicilina	الکساندرفلمینگ
+pie	ماسه
+dinero	پول نقد
+César	قیصر
+silla	تلسکوپ
+Renaissance	عصر نوزایی
+huerto	شترمرغ
+matemático	نمایش
+mallas	زارا
+nube	دریاچه
+Mathematical Bridge	سی‌وسه‌پل
+jaque	شطرنج
+paso de cebra	شخص
+soldado	صلح
+científico	گاوس
+manantial	آب‌فشان
+cadencia	نواخت
+lluvia	رایانش ابری
+astronave	ژول
+granizo	باران
+Clinton	اوباما
+conductor	گوگل‌درایو
+alfabeto	خودکار
+clase obrera	کارخانه
+calentamiento global	یخچال طبیعی
+pago	سکه
+mijo	ذرت
+libertad	رهایی
+precipitación	تغییر اقلیم
+estrella	سیاره
+Oriente Medio	فرات
+elefante	دایناسور
+cortina	کرکره
+HSBC	بریتانیا
+Microsoft	سلسیوس
+trimestre	نیم‌سال تحصیلی
+abogado	نمایشگاه
+Mozilla Firefox	مرورگر وب
+Aristóteles	افلاطون
+manta	چوب
+Legión de Honor	لوازم تحریر
+KFC	مک‌دونالد
+fluido	سرشلنگ
+póster	کاغذ
+actriz	بازیگر
+cine	ذرت‌ بو داده
+sal	سدیم کلرید
+ecuador	ال‌نینو
+joystick	رادار
+multimillonario	بی‌خانمان
+gusano	بدافزار
+algodón	ژاکت
+silla	چهارپایه
+millonario	دلار
+paraguas	کالیبر
+polinización	پرچم
+espada	تخت‌ پادشاهی
+educación a distancia	اینترنت
+sexismo	جنسیت‌زدگی
+termodinámica	واکنش زنجیره‌ای
+eczema	درماتیت
+cubo	تاس
+oro	روی
+caja	منبع
+policía	سیاستمدار
+lápiz	داستان

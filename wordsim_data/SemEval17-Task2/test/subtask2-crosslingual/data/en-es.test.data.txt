@@ -1,0 +1,978 @@
+cyclone	tifón
+International Mathematical Olympiad	teoría
+translator	extranjero
+chemical substance	base
+acetylcholine	iris
+cotton	poliéster
+news	editorial
+violin	guitarra
+winner	campeón
+delta	mar
+cloud	ventana
+world	Asia
+christian	protestante
+joystick	radar
+Times	Guardian
+self-driving car	vehículo autónomo
+Clinton	Obama
+evolution	Darwin
+tennis	estadística
+internet	educación a distancia
+dune	desierto
+artwork	artista
+handle	proteína
+priest	billete
+chips	cursor
+suspect	hombre
+Caesar	Julio César
+provirus	membrana plasmática
+bank loan	deuda
+precipitation	cambio climático
+journalist	poeta
+fossil	combustible fósil
+curtain	persiana
+tug of war	Serpientes y Escaleras
+plane	helicóptero
+muffin	perejil
+pygmy hog	suidae
+rain	tormenta de nieve
+fox	glóbulo
+student	profesor
+dance	vestido
+patriotism	himno nacional
+soldier	paz
+pathology	hematología
+compass	elefante
+key	corona
+Silk Road	gusano de seda
+Mercury	Júpiter
+window	nube
+government	lagartija
+governor	emperador
+supporting character	película
+wizard	Harry Potter
+score	nivel
+teeth	martillo
+stamen	polinización
+pc game	videojuego
+pest	pesticida
+sphere	balón
+chair	taburete
+GDP	recesión
+cardigan	camisa
+South Pole	baile
+angel	demonio
+galaxy	astrónomo
+highway	carretera
+map	plaza
+brain	mente
+ostrich	huerto
+McDonald's	KFC
+worker	oficina
+show	matemático
+Legion of Honour	papelería
+muslim	obispo
+quality of life	renta
+plane	Boeing
+democracy	monarquía
+cloud	lago
+Alexander the Great	conquistador
+monarchy	democracia
+Ban Ki-moon	Naciones Unidas
+sergeant	pistola
+phonology	pantalla
+cash	dinero
+church	catedral
+brush	acuarela
+snow	avalancha
+actor	poliedro
+Julius Caesar	César
+tuberculosis	LED
+office	trabajador
+lobster	tiburón ballena
+Mozilla Firefox	navegador web
+sky	sueño
+Renascence	Renaissance
+sword	medio ambiente
+lock	llave
+priest	profeta
+jeans	mujer
+mother tongue	idioma
+director	jefe
+money	efectivo
+boat	árbol
+watch	falda
+screen	monitor
+typhoon	ciclón
+lake	garza real
+iris	acetilcolina
+mosaic	basílica
+pollination	estambre
+Spider-Man	calle
+essay	deberes
+stool	silla
+snapdragon	lantana
+bronchitis	acetaminofeno
+CO2	dióxido de carbono
+strategy	juego de estrategia
+syllabus	examen
+digit	citoplasma
+underwear	cuerpo
+skirt	reloj
+writer	regalo
+justice	tribunal
+Jupiter	Mercurio
+ant	mosca
+session	paciente
+table	puesta de sol
+piano	armonía
+Moscow	Unión Europea
+box	fuente
+mohito	mojito
+episode	capítulo
+woodland	Tiger Woods
+honor	estima
+patient	sesión
+playoff	baloncesto
+statistical measure	esperanza de vida
+source	caja
+Neanderthal	deporte
+princess	galleta
+Coke	Coca Cola
+opera	cine
+xenophobia	racismo
+butterfly	rosa
+athlete	corredor
+matrix	molécula
+Earth	meteorito
+telephone	móvil
+actor	actriz
+magma	volcán
+flag	vexilología
+sadness	felicidad
+problem	trastorno bipolar
+sewing machine	botón
+king	nepotismo
+volcano	magma
+museum	ceca
+helicopter	avión
+climate change	precipitación
+body	ropa interior
+legend	moraleja
+gunboat	costa
+intention	voluntad
+cursor	patatas fritas
+KFC	McDonald's
+astronomer	galaxia
+Mensa	CI
+compiler	subrutina
+stock exchange	mercado de valores
+World War II	Beethoven
+vocalist	personal
+camera	secuela
+offender	criminal
+peppermint	chicle
+weapon	casco
+fertilizer	crecimiento
+woman	vaqueros
+equator	Ecuador
+Renaissance	Renacimiento
+competition	respeto mutuo
+Green Revolution	pintura
+popcorn	cine
+key	cerradura
+suffrage	salida
+bat	vampiro
+bus	centro
+Gauss	científico
+Wall Street	mercado financiero
+elementary school	bolígrafo
+archaeology	antropología
+Hebrew	Jerusalén
+person	paso de cebra
+European Parliament	Naciones Unidas
+mask	fiesta
+Soviet Union	Guerra Fría
+basmati	arroz jazmín
+battery	energía
+pedestrian crossing	persona
+worm	malware
+meadow	pradera
+esteem	honor
+Orion	constelación
+zinc	oro
+stock market	bolsa
+Islam	Corán
+theory	hipótesis
+cable	capilla
+Photoshop	Paint
+El Niño	ecuador
+song	artista
+Woody Allen	objetivo
+biology	biotopo
+forest	Amazonas
+Harry Potter	mago
+Aristotle	Platón
+heater	paraguas
+acoustics	sonido
+class	caos
+riot	dibujo
+will	intención
+movie	largometraje
+window blind	cortina
+airport	pieza
+biscuit	princesa
+meteorite	Tierra
+flora	naturaleza
+American	inglés
+pathogen	germen
+debt	préstamo bancario
+blanket	vendaval
+England	Reina Victoria
+IMF	Deutsche Bank
+base	ácido
+train	tranvía
+candy	canela
+pointer	diapositiva
+iPhone	Apple
+teacher	instructor
+robotics	simulación
+rock	mina
+chemotherapy	cáncer de páncreas
+nature	flora
+eczema	dermatitis
+University of Cambridge	Universidad de Oxford
+United Nations	Parlamento Europeo
+acid	base
+lizard	gobierno
+gray heron	lago
+article	manuscrito
+vampire	murciélago
+Boeing 747-200	cola
+officer	diputado
+computer	máquina
+telescope	tormenta de ideas
+ice	nieve
+The Last Supper	Leonardo da Vinci
+gun	sargento
+armed forces	defensa
+app	galaxia
+supporter	críquet
+monkey	campaña
+Dylan	Federer
+blanket	madera
+penny	ganga
+chair	telescopio
+senate	constitución
+road	autovía
+case	electricidad
+diode	condensador
+web browser	flora
+theatre	película
+carbon dioxide	CO2
+chaos	clase
+coin	pago
+alloy	acero
+thread	hilado
+glacier	calentamiento global
+homeless	multimillonario
+ozone	atmósfera
+Britain	HSBC
+Brexit	impuesto
+biotope	biología
+crocodile	lagarto
+mint	museo
+sexism	discriminación de género
+distance education	Internet
+visa	globalismo
+guitar	violín
+atmosphere	ozono
+multiple sclerosis	EM
+behaviourism	terapia
+Alexander Fleming	penicilina
+autonomous car	coche autónomo
+statue	escultura
+yo-yo	juguete
+salt	cloruro de sodio
+prosecutor	abogado
+poem	ritmo
+rose oil	agua de rosas
+language	lengua materna
+actor	televisión
+GTA	Grand Theft Auto
+university	campus
+orchard	avestruz
+Google Drive	conductor
+roof	ventana
+sport	neandertal
+wood	piedra
+Jerusalem	hebreo
+sequel	cámara
+Paint	Photoshop
+dermatitis	eczema
+protein molecule	receptor
+flute	música
+law	piscina
+Amazon	bosque
+preschool	jardín de infancia
+tremor	terremoto
+weather	ola
+field	avena
+paper money	sacerdote
+conqueror	Alejandro Magno
+infinity	cero
+Dingle	Dell
+historiographer	historiador
+Middle East	Éufrates
+clock tower	piedra
+philosopher	carreras
+cable	mago
+avalanche	nieve
+combine	caña de azúcar
+corn	mijo
+teacher	estudiante
+vexillology	bandera
+skyscraper	palacio
+statistics	tenis
+lens	Woody Allen
+Canon	Fox Terrier
+spacecraft	Julio
+fraud	corrupción
+Mozart	Guerra de las Galaxias
+topic	hashtag
+wave	clima
+global warming	glaciar
+wrapper	puerto
+grapefruit	cítrico
+sculpture	estatua
+insignia	dignidad
+Promised Land	Baku
+deputy	oficial
+cable	Sol
+water	coronación
+New York	antropología
+wizard	cable
+gun	cuaderno
+electric train	Siemens
+gallery	abogado
+Chomolungma	Monte Everest
+year	siglo
+jumping	valla
+sensor	radiador
+growth	fertilizante
+navy	isla
+scientist	Gauss
+Ecuador	ecuador
+parliament	congreso
+growth hormone	somatotropina
+Olympic Games	espíritu
+palace	rascacielos
+cash flow	río
+runner	atleta
+monitor	pantalla
+mind	cerebro
+tree	barco
+hypothesis	teoría
+vapor	cero absoluto
+level	puntuación
+economy	ecosistema
+cinema	palomitas
+river	flujo de caja
+trout	guitarra
+AI	batería
+Ebola virus	Ébola
+energy	batería
+theory	Olimpiada Internacional de Matemáticas
+sister	hermano
+glass	emblema
+Juventus	Bayern Munich
+acetaminophen	bronquitis
+pen	alfabeto
+silkworm	Ruta de la Seda
+car	tanque
+polyester	algodón
+lawyer	galería
+Deutsche Bank	FMI
+HSBC	Gran Bretaña
+tax	Brexit
+trainers	medalla
+mainboard	placa madre
+national anthem	patriotismo
+town	ciudad
+surfing	deporte acuático
+pineapple	smartphone
+rose	mariposa
+writer	novela
+Mona Lisa	obra maestra
+cotton	jersey
+receptor	molécula proteica
+malware	gusano
+nihilism	película
+umbrella	radiador
+demon	ángel
+Obama	Clinton
+association	partido político
+chain reaction	termodinámica
+paint	revolución verde
+Leonardo da Vinci	La Última Cena
+snake	lagartija
+ball	raqueta
+drug	Pfizer
+slide	puntero
+piston	motor
+operating system	aprendizaje profundo
+magistrate	juez
+gender discrimination	sexismo
+dice	cubo
+leaf	plántula
+fashion	estilo
+sword	trono
+rhythm	cadencia
+polyhedron	actor
+panda	oso polar
+battery	teatro
+Nike	Adidas
+Shakespeare	Dickens
+web browser	Mozilla Firefox
+elephant	brújula
+mark	club
+cinema	ópera
+mojito	mojito
+spoon	zumo
+satire	mito
+tribunal	justicia
+sea	maremoto
+JPEG	PDF
+base	sustancia química
+guitar	trucha
+Adidas	Nike
+absolute zero	vapor
+steel	aleación
+singer	coro
+maize	maíz
+system	falla
+galaxy	aplicación
+dollar	millonario
+slave	criado
+billionaire	vagabundo
+yarn	hilo
+city	pueblo
+attack	crimen
+fencing	gimnasia
+semester	trimestre
+foreigner	traductor
+Quran	Islam
+fluid	boquilla
+number	dígito
+truck	paquete
+rhythm	poema
+Cyrus	Imperio persa
+sodium chloride	sal
+multiplication	división
+speed	correo
+lizard	cocodrilo
+check	ajedrez
+cathedral	iglesia
+dream	cielo
+judge	magistrado
+chapter	episodio
+Queen Victoria	Inglaterra
+jacket	agua mineral
+IQ	Mensa
+recession	PIB
+pen	escuela primaria
+umbrella	calibre
+blizzard	lluvia
+structure	topología
+orchestra	banda
+Zara	mallas
+orange	cítrico
+apocalypse	fuego
+Bayern Munich	Juventus
+wood	manta
+cadence	ritmo
+gravity	meteorito
+tradition	artesanía
+lifestyle	civilización
+novel	escritor
+theatre	batería
+mansion	escultor
+capacitor	diodo
+globalism	visa
+job	herramienta
+root	UNICEF
+graphic novel	tebeo
+tuition	beca
+envelope	decoración
+bishop	musulmán
+polar bear	oso panda
+stadium	Oscars
+Coca-Cola	bebida de cola
+Paul the Octopus	pulpo
+lock-up	celda
+soccer	fútbol
+elephant	dinosaurio
+cameo	actuación
+beach	costa
+Cold War	Unión Soviética
+ball	esfera
+castle	muro
+Fox Terrier	Canon
+Microsoft	Celsius
+square	mapa
+poster	papel
+scholarship	matrícula
+mineral water	chaqueta
+bicycle	coche
+Star Wars	Mozart
+Opel	Mercedes
+can	botella
+player	entrenador
+stationery	Legión de Honor
+carbohydrate	sacarosa
+LED	tuberculosis
+parsley	magdalena
+mine	roca
+Joule	astronave
+heat	calentamiento global
+island	península
+sunset	mesa
+gift	escritor
+bid price	Londres
+Bible	Evangelio
+person	personaje
+deep learning	sistema operativo
+shirt	rebeca
+star	brillo
+past	antecedente
+man	sospechoso
+island	marina
+earthquake	temblor
+coast	playa
+book	manuscrito
+liberty	libertad
+fossil fuel	fósil
+algebra	operación
+Subway	bocadillo
+manuscript	libro
+wall	castillo
+anthropology	Nueva York
+stone	torre del reloj
+dinosaur	elefante
+fence	salto
+cellphone	teléfono
+London	precio de licitación
+handicraft	tradición
+racing	filósofo
+asset	existencias
+Euphrates	Oriente Medio
+exit	sufragio
+congress	parlamento
+MS	esclerosis múltiple
+Federer	Dylan
+hashtag	tema
+matrix	vector
+JPY	blanqueo de dinero
+lamp	genio
+blood	cuerpo
+actress	actor
+sculptor	mansión
+geyser	manantial
+Hadoop	pantalla táctil
+film	teatro
+helmet	arma
+simulation	robótica
+citrus fruit	pomelo
+protein	pomo
+performance	cameo
+band	orquesta
+emperor	gobernador
+Siemens	tren eléctrico
+city center	autobús
+development	recaudación de fondos
+Celsius	Microsoft
+champion	ganador
+street	Spider-Man
+crime	ataque
+statute	glaciación
+Gospel	Biblia
+star	asteroide
+toy	yoyó
+tunnel	camino
+illustration	ampolla
+symbol	criptograma
+shield	broquel
+dignity	insignia
+window	techo
+brother	hermana
+culture	sociedad
+operation	álgebra
+global warming	calor
+theory	teorema
+Darwin	evolución
+money laundering	JPY
+working class	planta
+anthropology	arqueología
+Latin	alemán
+sociobiology	mutante
+cattle	yogurt
+century	año
+criminal	delincuente
+mutant	sociobiología
+pancreatic cancer	quimioterapia
+overcast	pronóstico
+information	entropía
+myth	sátira
+seedling	hoja
+motherboard	placa base
+cell	cárcel
+kindergarten	preescolar
+tsunami	mar
+Grand Theft Auto	GTA
+blood cell	zorro
+stone	madera
+coach	jugador
+tank	coche
+negotiation	diplomacia
+oasis	libertad
+Gmail	Yahoo
+sonnet	belleza
+freedom	libertad
+plant	agricultura
+button	máquina de coser
+diplomacy	negociación
+Nietzsche	Chelsea
+Si-o-seh pol	Mathematical Bridge
+water	sequía
+television	guionista
+radiator	sensor
+political party	asociación
+therapy	conductismo
+pesticide	peste
+ring	compromiso
+radar	joystick
+Faraday constant	mochila
+Snakes and Ladders	juego de la soga
+crown	llave
+Yahoo	Gmail
+medal	zapatillas
+millionaire	dólar
+rain	computación en la nube
+exchange	moneda
+ISIS	islamofobia
+harmony	piano
+monastery	ducha
+calendar	vacaciones
+standard deviation	acumulación
+cytoplasm	dedo
+swimming pool	ley
+freedom	oasis
+silkworm	oruga
+rear	cola
+stage	heavy metal
+tram	tren
+club	marca
+post	velocidad
+suffix	afijo
+yogurt	ganado
+poet	periodista
+peace	soldado
+sweater	algodón
+cherry	fresa
+alphabet	bolígrafo
+videogame	juego de ordenador
+cell membrane	provirus
+oat	campo
+machine	ordenador
+coronation	agua
+chart	gráfico
+rain	granizo
+division	multiplicación
+cricket	seguidor
+seed	molino
+victim	teléfono
+conversion	altitud
+moral	leyenda
+zero	infinito
+body	sangre
+brainstorming	telescopio
+civilization	estilo de vida
+ice age	estatuto
+constitution	emperador
+citrus	naranja
+campaign	mono
+snowboard	esquí
+ruler	rey
+flag	Union Jack
+happiness	tristeza
+campus	universidad
+viscosity	salpicadura
+Sun	cable
+WikiLeaks	Wifi
+sea	delta
+prophet	sacerdote
+alliance	OTAN
+valley	depresión
+Ronaldo	U2
+engine	pistón
+gum	menta
+dairy	miel
+environment	espada
+music	flauta
+television	actor
+Go	backgammon
+chapel	cable
+ice cream	desayuno
+fly	hormiga
+heavy metal	escenario
+cryptogram	símbolo
+protestant	cristiano
+sultan	ministerio
+tail	Boeing 747-200
+film	nihilismo
+uniform	ganchillo
+Spanish	humedad
+racism	xenofobia
+instructor	profesor
+program	comida
+stock	activo
+holiday	calendario
+performer	canción
+pencil	historia
+strategy game	estrategia
+sandwich	Subway
+duke	república
+tail	retaguardia
+suidae	jabalí enano
+Penicillin	Alexander Fleming
+jasmine rice	basmati
+parcel	camión
+driver	Google Drive
+Ebola	virus del Ébola
+spirit	Juegos Olímpicos
+planet	estrella
+background	fondo de pantalla
+squall	viento
+rucksack	constante de Faraday
+milkshake	zumo
+lizard	serpiente
+backgammon	Go
+serial killer	asesino
+Europe	Tratado de Maastricht
+brightness	estrella
+handbook	guía
+screenwriter	televisión
+car	camión
+king	gobernante
+gold	zinc
+lawyer	fiscal
+altitude	conversión
+drawing	revuelta
+octopus	pulpo Paul
+Google DeepMind	DeepMind
+charger	disco
+style	moda
+screen	fonología
+leggings	Zara
+subroutine	compilador
+society	cultura
+cube	dados
+accident	libro
+mutual respect	competición
+neuropsychology	parapsicología
+engagement	anillo
+snow	hielo
+drought	agua
+film	película
+Oxford University	Universidad de Cambridge
+juice	batido
+encyclopedia	diccionario
+digit	número
+germ	patógeno
+decoration	sobre
+Wii	PlayStation
+rosewater	esencia de rosas
+honey	lechería
+surgical operation	tratamiento
+laptop	ordenador portátil
+theorem	Bolzano
+gale	manta
+frame	golpe
+corruption	fraude
+splash	viscosidad
+policeman	político
+bipolar disorder	problema
+phone	víctima
+car	bicicleta
+Mathematical Bridge	Si-o-seh pol
+term	semestre
+piece	aeropuerto
+islamophobia	EI
+sucrose	carbohidrato
+coast	cañonero
+wallpaper	fondo
+paper	póster
+murderer	asesino en serie
+telescope	silla
+accumulation	desviación estándar
+notebook	arma
+Mount Everest	Chomolungma
+whale shark	langosta
+topology	estructura
+asteroid	estrella
+PlayStation	Wii
+Chelsea	Nietzsche
+cinnamon	caramelo
+notebook	portátil
+Boeing	avión
+NATO	alianza
+electricity	funda
+hail	lluvia
+caterpillar	gusano de seda
+Mercedes	Opel
+broom	polvo
+ministry	sultán
+wind	borrasca
+Oscars	estadio
+truck	coche
+nepotism	rey
+strawberry	cereza
+hammer	dientes
+shower	monasterio
+cloud computing	lluvia
+income	calidad de vida
+Union Jack	bandera
+Western Union	mundo occidental
+historian	historiógrafo
+payment	moneda
+chess	jaque
+nozzle	fluido
+dust	escoba
+blister	ilustración
+water sport	surf
+Baku	Tierra Prometida
+throne	espada
+constitution	senado
+fault	sistema
+Tiger Woods	bosque
+basilica	mosaico
+tool	trabajo
+book	accidente
+assignment	apuntes
+parapsychology	neuropsicología
+harbor	envoltorio
+agriculture	planta
+United Nations	Ban Ki-moon
+treatment	operación quirúrgica
+Dell	Dingle
+Maastricht Treaty	Europa
+ecosystem	economía
+Hamadan	Roma
+Pfizer	medicamento
+mathematician	espectáculo
+currency	intercambio
+mind	neurosis
+forecast	nubosidad
+fundraising	desarrollo
+path	túnel
+dance	Polo Sur
+German	latín
+gymnastics	esgrima
+servant	esclavo
+neurosis	mente
+moisture	español
+Plato	Aristóteles
+Asia	mundo
+thermodynamics	reacción en cadena
+life expectancy	medida estadística
+theorem	teoría
+equator	El Niño
+manuscript	artículo
+graph	gráfica
+Bolzano	teorema
+peninsula	isla
+somatotropin	hormona del crecimiento
+WiFi	WikiLeaks
+blood	virus
+movie	actor secundario
+bottle	lata
+battery	IA
+juice	cuchara
+Rome	Hamedan
+party	máscara
+entropy	información
+desert	duna
+touchscreen	Hadoop
+Apple	iPhone
+hit	marco
+emperor	constitución
+Western world	Western Union
+foot	arena
+boss	director
+watercolor painting	brocha
+badge	vaso
+disk	cargador
+smartphone	piña
+Guardian	Times
+U2	Ronaldo
+distance	perspectiva
+artist	obra de arte
+lake	nube
+UNICEF	raíz
+Beethoven	Segunda Guerra Mundial
+financial market	Wall Street
+football	balompié
+defence	fuerzas armadas
+character	persona
+flora	navegador web
+sand	pie
+homework	redacción
+republic	duque
+molecule	matriz
+affix	sufijo
+plant	clase obrera
+comic book	novela gráfica
+sugarcane	cosechadora
+caliber	paraguas
+Persian Empire	Ciro
+hematology	patología
+mill	semilla
+lantana	boca de dragón
+story	lápiz
+Dickens	Shakespeare
+editorial	noticia
+note-taking	tarea
+dictionary	enciclopedia
+breakfast	helado
+sound	acústica
+meteor	gravedad
+guidebook	manual
+depression	valle
+English	americano
+fire	apocalipsis
+PDF	JPEG
+staff	vocalista
+antecedent	pasado
+bargain	centavo
+beauty	soneto
+DeepMind	Google DeepMind
+spring	géiser
+European Union	Moscú
+basketball	desempate
+politician	policía
+constellation	Orión
+exam	temario
+buckler	escudo
+vector	matriz
+star	planeta
+food	programa
+virus	sangre
+dress	baile
+grassland	prado
+crochet	uniforme
+racket	pelota
+masterpiece	Mona Lisa
+chorus	cantante
+perspective	distancia
+skiing	snowboard
+genie	lámpara

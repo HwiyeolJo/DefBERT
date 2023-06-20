@@ -1,0 +1,500 @@
+Julio	astronave
+Tierra Prometida	Baku
+coche	bicicleta
+poliedro	actor
+esclerosis múltiple	EM
+falla	sistema
+arma	casco
+guionista	televisión
+Naciones Unidas	Ban Ki-moon
+Si-o-seh pol	Mathematical Bridge
+basílica	mosaico
+acuarela	brocha
+democracia	monarquía
+Gauss	científico
+tuberculosis	LED
+coche autónomo	vehículo autónomo
+apocalipsis	fuego
+velocidad	correo
+PlayStation	Wii
+portátil	ordenador portátil
+Harry Potter	mago
+snowboard	esquí
+puntero	diapositiva
+sensor	radiador
+golpe	marco
+teoría	hipótesis
+Wall Street	mercado financiero
+Darwin	evolución
+actor	actriz
+película	teatro
+himno nacional	patriotismo
+pantalla	monitor
+lechería	miel
+Monte Everest	Chomolungma
+juego de la soga	Serpientes y Escaleras
+pesticida	peste
+policía	político
+neuropsicología	parapsicología
+batería	energía
+Legión de Honor	papelería
+Spider-Man	calle
+península	isla
+ecuador	Ecuador
+gráfica	gráfico
+simulación	robótica
+Nike	Adidas
+sociedad	cultura
+juego de estrategia	estrategia
+iglesia	catedral
+traductor	extranjero
+biotopo	biología
+magma	volcán
+tormenta de ideas	telescopio
+nivel	puntuación
+centavo	ganga
+partido político	asociación
+maremoto	mar
+avestruz	huerto
+canela	caramelo
+escoba	polvo
+galaxia	astrónomo
+zumo	batido
+persiana	cortina
+criminal	delincuente
+cáncer de páncreas	quimioterapia
+pasado	antecedente
+Naciones Unidas	Parlamento Europeo
+canción	artista
+arma	cuaderno
+acetilcolina	iris
+alfabeto	bolígrafo
+coro	cantante
+madera	manta
+soldado	paz
+inglés	americano
+lagarto	cocodrilo
+dinero	efectivo
+pulpo Paul	pulpo
+calendario	vacaciones
+base	sustancia química
+gobierno	lagartija
+JPY	blanqueo de dinero
+DeepMind	Google DeepMind
+ajedrez	jaque
+soneto	belleza
+trabajador	oficina
+moneda	intercambio
+poliéster	algodón
+tribunal	justicia
+cola	retaguardia
+accidente	libro
+borrasca	viento
+piano	armonía
+sultán	ministerio
+desierto	duna
+multiplicación	división
+virus	sangre
+glaciación	estatuto
+espada	medio ambiente
+escuela primaria	bolígrafo
+críquet	seguidor
+escultura	estatua
+navegador web	Mozilla Firefox
+Fox Terrier	Canon
+HSBC	Gran Bretaña
+Biblia	Evangelio
+vestido	baile
+matriz	lista
+celda	cárcel
+redacción	deberes
+ordenador	máquina
+oso panda	oso polar
+neurosis	mente
+campaña	mono
+constante de Faraday	mochila
+palacio	rascacielos
+helicóptero	avión
+Universidad de Cambridge	Universidad de Oxford
+bandera	pértiga
+ventana	techo
+juego de cartas	frisbee
+malware	gusano
+planeta	estrella
+corredor	atleta
+calibre	paraguas
+Wifi	WikiLeaks
+sequía	agua
+aeropuerto	pieza
+orquesta	banda
+mojito	mojito
+temario	examen
+teorema	teoría
+yoyó	juguete
+tormenta de nieve	lluvia
+historiador	historiógrafo
+Siemens	tren eléctrico
+siglo	año
+aleación	acero
+magistrado	juez
+caos	clase
+educación a distancia	Internet
+arena	pie
+FMI	Deutsche Bank
+Guardian	Times
+gusano de seda	Ruta de la Seda
+libertad	oasis
+citoplasma	dedo
+protestante	cristiano
+Leonardo da Vinci	La Última Cena
+mapa	plaza
+parlamento	congreso
+recaudación de fondos	desarrollo
+patología	hematología
+valle	depresión
+telescopio	silla
+heavy metal	escenario
+globalismo	visa
+murciélago	vampiro
+diputado	oficial
+electricidad	funda
+extraterrestre	forastero
+botón	máquina de coser
+mago	cable
+filósofo	carreras
+palomitas	cine
+agricultura	planta
+poeta	periodista
+clima	ola
+civilización	estilo de vida
+nieve	hielo
+Segunda Guerra Mundial	Beethoven
+placa madre	placa base
+club	marca
+Alejandro Magno	conquistador
+aplicación	galaxia
+computación en la nube	lluvia
+televisión	actor
+delta	mar
+hilado	hilo
+paso de cebra	persona
+proteína	pomo
+U2	Ronaldo
+Apple	iPhone
+menta	chicle
+póster	papel
+UNICEF	raíz
+xenofobia	racismo
+Woody Allen	objetivo
+lámpara	genio
+marina	isla
+muro	castillo
+dinosaurio	elefante
+torre del reloj	piedra
+Oriente Medio	Éufrates
+prado	pradera
+guitarra	violín
+diplomacia	negociación
+gravedad	meteorito
+CI	Mensa
+Union Jack	bandera
+terremoto	temblor
+activo	existencias
+hebreo	Jerusalén
+nubosidad	pronóstico
+diccionario	enciclopedia
+ceca	museo
+silla	taburete
+español	humedad
+lata	botella
+mosca	hormiga
+mito	sátira
+centro	autobús
+cola	Boeing 747-200
+obra de arte	artista
+OTAN	alianza
+rey	gobernante
+ritmo	cadencia
+Alexander Fleming	penicilina
+flauta	música
+garza real	lago
+viscosidad	salpicadura
+hardware	funda
+anillo	compromiso
+latín	alemán
+clase obrera	planta
+Shakespeare	Dickens
+billete	sacerdote
+herramienta	trabajo
+jabalí enano	suidae
+sufragio	salida
+estrella	brillo
+trucha	guitarra
+dólar	millonario
+dígito	número
+vendaval	manta
+Obama	Clinton
+actor secundario	película
+Juventus	Bayern Munich
+cambio climático	precipitación
+IA	batería
+obra maestra	Mona Lisa
+crimen	ataque
+coronación	agua
+vocalista	personal
+desempate	baloncesto
+fuerzas armadas	defensa
+lago	nube
+monasterio	ducha
+lengua materna	idioma
+puerto	envoltorio
+demonio	ángel
+criptograma	símbolo
+campus	universidad
+libertad	libertad
+tifón	ciclón
+manual	guía
+Ébola	virus del Ébola
+princesa	galleta
+tren	tranvía
+ecosistema	economía
+reina reinante	dama
+oro	zinc
+cursor	patatas fritas
+Amazonas	bosque
+tenis	estadística
+Bolzano	teorema
+altitud	conversión
+barco	árbol
+trono	espada
+algodón	jersey
+cereza	fresa
+Islam	Corán
+neandertal	deporte
+nepotismo	rey
+personaje	persona
+tanque	coche
+Mercurio	Júpiter
+bronquitis	acetaminofeno
+sangre	cuerpo
+islamofobia	EI
+ganchillo	uniforme
+Hadoop	pantalla táctil
+combustible fósil	fósil
+mutante	sociobiología
+hermana	hermano
+lápiz	historia
+eczema	dermatitis
+emperador	gobernador
+corona	llave
+álgebra	operación
+pistón	motor
+beca	matrícula
+libro	manuscrito
+lantana	boca de dragón
+agujero negro	vacío
+Imperio persa	Ciro
+editorial	noticia
+decoración	sobre
+tiburón ballena	langosta
+maíz	mijo
+trastorno bipolar	problema
+ácido	base
+cero absoluto	vapor
+revolución verde	pintura
+sistema operativo	aprendizaje profundo
+Olimpiada Internacional de Matemáticas	teoría
+El Niño	ecuador
+emblema	vaso
+mansión	escultor
+atmósfera	ozono
+escudo	broquel
+moneda	pago
+avena	campo
+monje	cruz
+cañonero	costa
+roca	mina
+leyenda	moraleja
+campeón	ganador
+dados	cubo
+topología	estructura
+capilla	cable
+flujo de caja	río
+asesino en serie	asesino
+matriz	molécula
+moda	estilo
+vexilología	bandera
+Tratado de Maastricht	Europa
+géiser	manantial
+sacarosa	carbohidrato
+playa	costa
+mercado de valores	bolsa
+tradición	artesanía
+novela	escritor
+bocadillo	Subway
+acústica	sonido
+esgrima	gimnasia
+escritor	regalo
+bosque	Tiger Woods
+nube	ventana
+JPEG	PDF
+director	jefe
+impuesto	Brexit
+polinización	estambre
+videojuego	juego de ordenador
+tratamiento	operación quirúrgica
+arrozal	patata
+apuntes	tarea
+zorro	glóbulo
+cloruro de sodio	sal
+renta	calidad de vida
+voluntad	intención
+brújula	elefante
+secuela	cámara
+película	largometraje
+sargento	pistola
+molino	semilla
+helado	desayuno
+llave	cerradura
+móvil	teléfono
+jardín de infancia	preescolar
+mundo occidental	Western Union
+plántula	hoja
+lluvia	granizo
+felicidad	tristeza
+gusano de seda	oruga
+surf	deporte acuático
+coche	camión
+comida	programa
+novela gráfica	tebeo
+serpiente	lagartija
+piña	smartphone
+fondo de pantalla	fondo
+Celsius	Microsoft
+cosechadora	caña de azúcar
+vaqueros	mujer
+matriz	vector
+dióxido de carbono	CO2
+entrenador	jugador
+piedra	madera
+cargador	disco
+manuscrito	artículo
+Gmail	Yahoo
+condensador	diodo
+corrupción	fraude
+Coca Cola	bebida de cola
+Platón	Aristóteles
+Guerra Fría	Unión Soviética
+boquilla	fluido
+fonología	pantalla
+Zara	mallas
+fútbol	balompié
+germen	patógeno
+república	duque
+balón	esfera
+Mozart	Guerra de las Galaxias
+máscara	fiesta
+Grand Theft Auto	GTA
+autovía	carretera
+reacción en cadena	termodinámica
+ilustración	ampolla
+antropología	arqueología
+Dell	Dingle
+zumo	cuchara
+Pfizer	medicamento
+camión	paquete
+receptor	molécula proteica
+Google Drive	conductor
+multimillonario	vagabundo
+episodio	capítulo
+infinito	cero
+criado	esclavo
+sufijo	afijo
+calentamiento global	calor
+hormona del crecimiento	somatotropina
+cielo	sueño
+precio de licitación	Londres
+fertilizante	crecimiento
+hashtag	tema
+Orión	constelación
+Nietzsche	Chelsea
+respeto mutuo	competición
+rama	brazo
+víctima	teléfono
+desviación estándar	acumulación
+avalancha	nieve
+profesor	estudiante
+ganado	yogurt
+sexismo	discriminación de género
+Polo Sur	baile
+fiscal	abogado
+raqueta	pelota
+préstamo bancario	deuda
+perspectiva	distancia
+Federer	Dylan
+abogado	galería
+esperanza de vida	medida estadística
+membrana plasmática	provirus
+Unión Europea	Moscú
+mundo	Asia
+Paint	Photoshop
+senado	constitución
+perejil	magdalena
+mente	cerebro
+Mercedes	Opel
+martillo	dientes
+Renaissance	Renacimiento
+falda	reloj
+ópera	cine
+profesor	instructor
+Sol	cable
+recesión	PIB
+César	Julio César
+paciente	sesión
+conductismo	terapia
+emperador	constitución
+matemático	espectáculo
+entropía	información
+agua de rosas	esencia de rosas
+cítrico	pomelo
+Reina Victoria	Inglaterra
+Juegos Olímpicos	espíritu
+obispo	musulmán
+hombre	sospechoso
+meteorito	Tierra
+símbolo	señal
+antropología	Nueva York
+puesta de sol	mesa
+pueblo	ciudad
+chaqueta	agua mineral
+naturaleza	flora
+subrutina	compilador
+Hamedan	Roma
+paraguas	radiador
+honor	estima
+insignia	dignidad
+KFC	McDonald's
+joystick	radar
+basmati	arroz jazmín
+medalla	zapatillas
+ley	piscina
+fuente	caja
+teatro	batería
+flora	navegador web
+camisa	rebeca
+poema	ritmo
+profeta	sacerdote
+Oscars	estadio
+backgammon	Go
+mariposa	rosa
+valla	salto
+nihilismo	película
+asteroide	estrella
+revuelta	dibujo
+ropa interior	cuerpo
+Boeing	avión
+cameo	actuación
+semestre	trimestre
+naranja	cítrico
+glaciar	calentamiento global
+túnel	camino

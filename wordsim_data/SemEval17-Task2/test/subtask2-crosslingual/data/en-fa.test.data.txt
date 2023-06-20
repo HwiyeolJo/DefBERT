@@ -1,0 +1,952 @@
+Obama	کلینتون
+dignity	نشان افتخار
+polyester	پنبه
+Spider-Man	خیابان
+Earth	شهاب‌سنگ
+Euphrates	خاورمیانه
+orange	مرکبات
+caterpillar	کرم ابریشم
+meteor	گرانش
+basilica	موزائیک
+character	آدم
+Alexander the Great	فاتح
+matrix	ملکول
+surgical operation	درمان
+opera	سینما
+bishop	مسلمان
+Grand Theft Auto	جی‌تی‌ای
+growth	کود
+Soviet Union	جنگ سرد
+Mercedes	اوپل
+jasmine rice	باسماتی
+post	سرعت
+television	بازیگر
+culture	جامعه
+Gmail	یاهو
+fashion	سبک
+harbor	لفاف
+ostrich	باغ سیب
+apocalypse	آتش
+civilization	سبک زندگی
+film	فیلم سینمایی
+atmosphere	ازن
+masterpiece	مونالیزا
+crochet	لباس فرم
+window	سقف
+movie	فیلم
+key	تاج‌
+chapel	سیم
+problem	اختلال دوقطبی
+serial killer	قاتل
+jacket	آب‌ معدنی
+MS	اسکلروز چندگانه
+growth hormone	سوماتوتروپین
+sequel	دوربین
+sport	نئاندرتال
+Yahoo	جیمیل
+rain	تگرگ
+Coke	کوکاکولا
+blizzard	باران
+director	رئيس
+sultan	وزارت
+leggings	زارا
+cadence	نواخت
+fertilizer	رشد
+jeans	زن
+precipitation	تغییر اقلیم
+wall	قلعه
+surfing	ورزش آبی
+somatotropin	هورمون رشد
+suidae	گراز کوتوله
+christian	پروتستان
+Western world	وسترن یونیون
+fox	سلول خون
+Dickens	شکسپیر
+Aristotle	افلاطون
+grassland	علف‌زار
+Bible	انجیل
+Mozart	جنگ ستارگان
+comic book	داستان مصور
+whale shark	شاه‌میگو
+volcano	ماگما
+battery	تئاتر
+murderer	قاتل زنجیره‌ای
+Times	گاردین
+criminal	خلافکار
+anthropology	باستان‌شناسی
+corruption	کلاه‌برداری
+evolution	داروین
+illustration	تاول
+band	ارکستر
+actor	چندوجهی
+splash	گرانروی
+mineral water	ژاکت
+Hadoop	صفحه لمسی
+food	برنامه
+nihilism	فیلم
+sweater	پنبه
+sadness	خوشحالی
+society	فرهنگ
+association	حزب سیاسی
+blood	بدن
+Renascence	رنسانس
+Woody Allen	لنز
+mosaic	قصر سلطنتی
+bargain	پنی
+job	ابزار
+liberty	رهایی
+mill	دانه
+cable	خورشید
+Jupiter	عطارد
+charger	دیسک
+Zara	ساق‌پوش
+London	قیمت پیشنهادی خرید
+chair	چهارپایه
+orchard	شترمرغ
+viscosity	شتک
+England	ملکه ویکتوریا
+flora	طبیعت
+Dingle	دل
+film	پوچ‌گرایی
+cloud	پنجره
+base	ماده شیمیایی
+Bayern Munich	یوونتوس
+bottle	قوطی
+robotics	شبیه‌سازی
+diode	خازن
+avalanche	برف
+acetylcholine	عنبیه
+chemical substance	باز
+patient	جلسه
+city center	اتوبوس
+maize	ذرت
+sign	سمبل
+penny	معامله
+electric train	زیمنس
+parcel	کامیون
+pen	الفبا
+acetaminophen	برونشیت
+U2	رونالدو
+fluid	سرشلنگ
+fire	آخرالزمان
+global warming	گرما
+Dell	دینگل
+umbrella	کالیبر
+ministry	سلطان
+pollination	پرچم
+case	الکتریسیته
+JPY	پولشویی
+chair	تلسکوپ
+European Union	مسکو
+cytoplasm	انگشت
+wrapper	بندرگاه
+tremor	زمین‌لرزه
+receptor	ملکول پروتئین
+helmet	سلاح
+highway	جاده
+phonology	صفحه نمایش
+dance	قطب جنوب
+zero	بینهایت
+tree	قایق
+McDonald's	کی‌اف‌سی
+iPhone	اپل
+crown	کلید
+national anthem	میهن‌دوستی
+smartphone	سیب
+museum	ضرابخانه
+bipolar disorder	مشکل
+brain	ذهن
+theatre	باتری
+instructor	معلم
+citrus	پرتقال
+fossil fuel	سنگواره
+poem	وزن
+key	قفل
+blister	تصویرسازی
+yo-yo	اسباب‌بازی
+galaxy	منجم
+cash	پول
+Neanderthal	ورزش
+king	فرمانروا
+fly	مورچه
+constellation	شکارچی
+spacecraft	ژول
+tool	شغل
+screen	صداشناسی
+campus	دانشگاه
+camera	دنباله
+Spanish	رطوبت
+magistrate	قاضی
+anthropology	نیویورک
+check	شطرنج
+gift	نویسنده
+statistics	تنیس
+fossil	سوخت فسیلی
+river	جریان نقدی
+acoustics	صدا
+operation	جبر
+base	اسید
+suffrage	خروج
+Pfizer	دارو
+deep learning	سیستم‌عامل
+sandwich	ساب‌وی
+orchestra	گروه‌موسیقی
+university	پردیس دانشگاهی
+silkworm	کرم پیله ساز
+Plato	ارسطو
+caliber	چتر
+Juventus	بایرن‌مونیخ
+cricket	حامی
+cinnamon	آب‌نبات
+Maastricht Treaty	اروپا
+theory	قضیه
+Orion	صورت فلکی
+sensor	رادیاتور
+vampire	خفاش
+theory	المپیاد جهانی ریاضی
+heater	چتر
+teeth	چکش
+gun	دفتریادداشت
+water	خشکسالی
+depression	دره
+club	علامت
+supporting character	فیلم
+drought	آب‌
+butterfly	رز
+skirt	ساعت
+wizard	هری پاتر
+policeman	سیاستمدار
+Mona Lisa	شاهکار
+entropy	اطلاعات
+pancreatic cancer	شیمی‌درمانی
+coach	بازیکن
+constitution	امپراتور
+backgammon	گو
+pc game	بازی ویدئویی
+silkworm	راه ابریشم
+subroutine	کامپایلر
+monarchy	دموکراسی
+buckler	محافظ
+watercolor painting	قلمو
+billionaire	بی‌خانمان
+tribunal	عدالت
+champion	برنده
+flag	میله
+sphere	توپ
+recession	تولید ناخالص داخلی
+insignia	کرامت
+worker	دفتر
+water	تاج‌گذاری
+philosopher	مسابقه
+branch	بازو
+airport	قطعه
+division	ضرب
+coast	ناوچه توپدار
+moisture	اسپانیایی
+cattle	ماست
+popcorn	سینما
+campaign	میمون
+decoration	پاکت نامه
+symbol	نوشته رمزی
+Si-o-seh pol	پل ریاضی
+background	والپیپر
+distance education	اینترنت
+lizard	دولت
+cash flow	رودخانه
+dance	لباس
+spoon	آبمیوه
+water sport	موج‌سواری
+woman	شلوار جین
+list	آرایه
+Darwin	تکامل
+Boeing	هواپیما
+spirit	بازی‌های المپیک
+Queen Victoria	انگلیس
+mainboard	مادربورد
+gum	نعناع فلفلی
+compiler	رویه
+Apple	آیفون
+sodium chloride	نمک
+typhoon	طوفان موسمی
+University of Cambridge	دانشگاه آکسفورد
+juice	قاشق
+protestant	مسیحی
+star	سیاره
+citrus fruit	گریپ‌فروت
+car	تانک
+foot	ماسه
+machine	رایانه
+Boeing 747-200	دم
+cell	زندان
+politician	پليس
+toy	یویو
+Mount Everest	کومولانگما
+throne	شمشیر
+Rome	همدان
+wood	پتو
+ISIS	اسلام‌هراسی
+plant	کشاورزی
+novel	نویسنده
+teacher	دانش‌آموز
+Moscow	اتحادیه اروپا
+autonomous car	خودروی خودگردان
+flute	موسیقی
+zinc	طلا
+dictionary	دایرةالمعارف
+pygmy hog	گراز
+Jerusalem	عبری
+web browser	گیا
+oat	مزرعه
+asteroid	ستاره
+International Mathematical Olympiad	نظریه
+ball	کره
+delta	دریا
+neuropsychology	فراروانشناسی
+stamen	گرده‌افشانی
+angel	اهریمن
+Opel	مرسدس
+lifestyle	تمدن
+Amazon	جنگل
+driver	گوگل‌درایو
+magma	آتش‌فشان
+watch	دامن
+affix	پسوند
+dinosaur	فیل
+blood	ویروس
+cathedral	کلیسا
+CO2	دی‌اکسید کربن
+sword	تخت‌ پادشاهی
+economy	اکوسیستم
+cloud computing	باران
+tunnel	مسیر
+congress	پارلمان
+gunboat	ساحل
+sculpture	تندیس
+tuberculosis	ال‌ای‌دی
+chemotherapy	سرطان لوزالمعده
+yogurt	گاو
+island	نیروی دریایی
+emperor	فرماندار
+cable	جادوگر
+happiness	ناراحتی
+republic	دوک
+Faraday constant	کوله‌پشتی
+cryptogram	نماد
+fault	سامانه
+Paint	فتوشاپ
+Nietzsche	چلسی
+germ	پاتوژن
+coast	کنار دریا
+political party	انجمن
+ant	مگس
+cinema	اپرا
+steel	آلیاژ
+navy	جزیره
+fencing	ژیمناستیک
+treatment	عمل جراحی
+gallery	وکیل
+shower	صومعه
+Ban Ki-moon	سازمان ملل متحد
+mutual respect	رقابت
+telescope	صندلی
+operating system	یادگیری عمیق
+beach	ساحل
+news	سرمقاله
+The Last Supper	لئوناردو‌دا‌وینچی
+calendar	تعطیلات
+nepotism	پادشاه
+Joule	فضاپیما
+translator	خارجی
+handle	پروتئین
+sergeant	تفنگ
+plane	هلی‌کوپتر
+energy	باتری
+chart	گراف
+AI	باتری
+strategy game	استراتژی
+global warming	یخچال طبیعی
+income	کیفیت زندگی
+hashtag	موضوع
+tennis	آمار
+ice cream	صبحانه
+alien	بیگانه
+fraud	فساد
+earthquake	زلزله
+rosewater	روغن گل‌سرخ
+suffix	وند
+runner	ورزشکار
+monastery	دوش
+cell membrane	پروویروس
+internet	یادگیری از راه دور
+handicraft	سنت
+pathology	خون‌شناسی
+guidebook	راهنما
+computer	دستگاه
+hardware	جعبه رایانه
+coin	پرداخت
+source	جعبه
+bronchitis	استامینوفن
+sugarcane	کمباین
+slave	خدمتکار
+pedestrian crossing	شخص
+screen	مانیتور
+Cold War	شوروی
+cube	تاس
+prophet	کشیش
+money	پول نقد
+biology	بیوتوپ
+cotton	ژاکت
+card game	فریزبی
+candy	دارچین
+seed	کارخانه
+Alexander Fleming	پنی‌سیلین
+overcast	پيش‌‌بینی
+blanket	چوب
+actor	هنرپیشه‌
+quality of life	درآمد
+paper	پوستر
+dust	جارو
+frame	اصابت
+Silk Road	کرم ابریشم
+Deutsche Bank	صندوق بین‌المللی پول
+muslim	اسقف
+provirus	غشای سلول
+blood cell	روباه
+rain	کولاک
+hammer	دندان
+Asia	جهان
+hematology	آسیب‌شناسی
+truck	بسته
+table	غروب
+number	رقم
+poet	روزنامه‌نگار
+money laundering	ین
+drug	فایزر
+iris	استیل کولین
+currency	بورس
+pineapple	گوشی هوشمند
+breakfast	بستنی
+truck	ماشین
+cherry	توت‌فرنگی
+Subway	ساندویچ
+scholarship	شهریه
+blanket	طوفان
+molecule	ماتریس
+paper money	کشیش
+freedom	واحه
+sister	برادر
+cellphone	تلفن
+IQ	منسا
+map	مربع
+cable	نمازخانه
+globalism	روادید
+clock tower	سنگ
+century	سال
+neurosis	ذهن
+hit	قاب
+badge	شیشه
+geyser	چشمه
+lizard	تمساح
+guitar	قزل‌آلا
+body	لباس زیر
+speed	پست
+skiing	اسنوبرد
+town	شهر
+mask	مهمانی
+malware	کرم
+car	کامیون
+envelope	دکوراسیون
+engine	پیستون
+Hebrew	بیت‌المقدس
+climate change	بارش
+peppermint	آدامس
+Ronaldo	یوتو
+stock exchange	بازار بورس
+Mensa	آی‌کیو
+therapy	رفتارگرایی
+writer	رمان
+Adidas	نایک
+United Nations	پارلمان اروپا
+teacher	آموزگار
+offender	مجرم
+parsley	مافین
+story	مداد
+exam	سرفصل دروس
+body	خون
+jumping	حصار
+LED	سل
+lobster	کوسه نهنگ
+nozzle	مایع
+car	دوچرخه
+Guardian	تایمز
+party	نقاب
+Chomolungma	کوه اورست
+assignment	یادداشت‌برداری
+article	نسخه خطی
+forest	آمازون
+graphic novel	کتاب کامیک
+emperor	قانون اساسی
+brother	خواهر
+snapdragon	شاه‌پسند
+glass	نشان
+behaviourism	درمان
+vocalist	کارمند
+Caesar	قیصر
+bicycle	ماشین
+ice age	قانون
+sociobiology	جهش‌یافته
+island	شبه‌جزیره
+prosecutor	وکیل
+motherboard	برداصلی
+tram	قطار
+archaeology	انسان‌شناسی
+Sun	کابل
+demon	فرشته
+combine	نیشکر
+will	قصد
+GDP	بحران اقتصادی
+program	غذا
+king	خویشاوندسالاری
+wizard	کابل
+Harry Potter	جادوگر
+infinity	صفر
+visa	جهانی‌گرایی
+manuscript	مقاله
+man	مظنون
+Ebola	ویروس ابولا
+valley	فرورفتگی
+lock	کلید
+stone	چوب
+Google Drive	راننده
+weapon	کلاه‌ ایمنی
+player	مربی
+preschool	کودکستان
+suspect	مرد
+thermodynamics	واکنش زنجیره‌ای
+accident	کتاب
+harmony	پیانو
+guitar	ویولن
+trainers	مدال
+black hole	خلاء
+class	آشفتگی
+writer	هدیه
+foreigner	مترجم
+castle	ديوار
+Oxford University	دانشگاه کمبریج
+mint	موزه
+bid price	لندن
+stock	دارایی
+parapsychology	نوروسایکولوژی
+can	بطری
+sea	دلتا
+Brexit	مالیات
+leaf	جوانه
+vector	ماتریس
+bank loan	قرض
+sculptor	عمارت
+ecosystem	اقتصاد
+staff	سراینده
+Beethoven	جنگ جهانی دوم
+theorem	بولتسانو
+cloud	دریاچه
+snow	یخ
+wallpaper	دیواربرگ
+show	ریاضی‌دان
+performance	تک‌جلوه
+priest	اسکناس
+chaos	کلاس
+corn	جواری
+Coca-Cola	کوکا
+Shakespeare	دیکنز
+pest	آفت‌کش
+juice	میلک‌شیک
+compass	فیل
+root	یونیسف
+winner	قهرمان
+chess	کیش
+window blind	پرده
+broom	خاک
+pen	مدرسه ابتدایی
+capacitor	دیود
+chapter	بخش
+Nike	آدیداس
+mohito	موخیتو
+Hamadan	رم
+servant	غلام
+Latin	آلمانی
+lizard	مار
+laptop	رایانه کیفی
+athlete	دونده
+United Nations	بان‌کی‌مون
+brightness	ستاره
+conqueror	اسکندرکبیر
+racism	بیگانه‌هراسی
+statue	مجسمه
+wind	بوران
+development	جذب سرمایه
+IMF	دویچه بانک
+priest	پیامبر
+chain reaction	ترمودینامیک
+meadow	چمن‌زار
+Persian Empire	کورش
+phone	قربانی
+altitude	تبدیل
+peace	سرباز
+city	شهرک
+square	نقشه
+fence	پرش
+underwear	بدن
+conversion	ارتفاع
+chips	مکان‌نما
+sucrose	کربوهیدرات
+judge	دادرس
+semester	ترم‌تحصیلی
+singer	گروه کر
+mind	اختلال اعصاب
+alloy	فولاد
+star	روشنایی
+South Pole	رقص
+Go	تخته نرد
+senate	قانون اساسی
+handbook	کتاب راهنما
+Quran	اسلام
+PlayStation	وی
+telephone	تلفن همراه
+pathogen	بیمارگر
+ball	راکت
+nature	گیاه
+mind	مفز
+sound	صوت‌شناسی
+piece	فرودگاه
+actress	بازیگر
+theorem	نظریه
+meteorite	زمین
+cyclone	گردباد
+case	سخت‌افزار
+dress	رقص
+Renaissance	عصر نوزایی
+historiographer	مورخ
+stationery	لژیون دونور
+pointer	اسلاید
+radar	جوی‌استیک
+matrix	بردار
+democracy	سلطنت
+palace	آسمان‌خراش
+historian	تاریخ‌نگار
+biscuit	شاهزاده
+digit	سيتوپلاسم
+snake	مارمولک
+shirt	ژاکت
+holiday	تقویم
+dune	بیابان
+sword	محیط
+galaxy	اپ
+shield	سپر
+basketball	بازی حذفی
+GTA	اتومبیل‌دزدی بزرگ
+rain	رایانش ابری
+paint	انقلاب سبز
+Mercury	مشتری
+American	انگلیسی
+Mathematical Bridge	سی‌وسه‌پل
+Oscars	استادیوم
+stadium	اسکار
+student	معلم
+polar bear	پاندا
+session	بیمار
+dice	مکعب
+sand	پا
+New York	انسان‌شناسی
+Leonardo da Vinci	شام آخر
+app	کهکشان
+strategy	بازی استراتژیکی
+Western Union	جهان غرب
+mutant	زیست‌جامعه‌شناسی
+lantana	میمونی
+monkey	کمپین
+brainstorming	تلسکوپ
+star	سیارک
+tuition	بورس تحصیلی
+environment	شمشیر
+array	لیست
+diplomacy	مذاکره
+carbohydrate	ساکارز
+fundraising	توسعه
+encyclopedia	واژه‌نامه
+mansion	مجسمه ساز
+Google DeepMind	ديپ‌مایند
+cotton	پلی‌ستر
+information	آنتروپی
+alphabet	خودکار
+PDF	جی‌پگ
+dermatitis	اگزما
+elephant	دایناسور
+radiator	حسگر
+UNICEF	ریشه
+Tiger Woods	بیشه‌زار
+acid	باز
+polyhedron	بازیگر
+world	آسیا
+worm	بدافزار
+intention	خواست
+World War II	بتهوون
+wood	سنگ
+elephant	قطب‌نما
+drawing	شورش
+forecast	ابری
+syllabus	امتحان
+biotope	بیولوژی
+defence	نیروهای مسلح
+Baku	سرزمین موعود
+sunset	میز
+heat	گرمایش جهانی
+Clinton	اوباما
+note-taking	تکلیف
+cinema	ذرت‌ بو داده
+honor	عزت
+debt	وام
+violin	گیتار
+Star Wars	موتزارت
+statistical measure	امید به زندگی
+duke	جمهوری
+multiple sclerosis	ام‌اس
+heavy metal	صحنه
+dream	آسمان
+distance	پرسپکتیو
+pencil	داستان
+movie	نقش مکمل
+planet	ستاره
+Chelsea	نیچه
+homework	انشا
+topic	برچسب
+curtain	کرکره
+agriculture	گیاه
+button	چرخ‌خیاطی
+exchange	پول
+battery	انرژی
+music	فلوت
+grapefruit	مرکبات
+multiplication	تقسیم
+tsunami	دریا
+notebook	لپ‌تاپ
+graph	چارت
+life expectancy	شاخص آماری
+oasis	آزادی
+field	جو
+Bolzano	قضیه
+disk	شارژر
+film	تئاتر
+book	کتاب خطی
+payment	سکه
+gender discrimination	تبعیض جنسیتی
+Ebola virus	ابولا
+umbrella	بخاری
+basmati	برنج ژاسمین
+astronomer	کهکشان
+virus	خون‌
+window	ابر
+rhythm	شعر
+coronation	آب
+seedling	برگ
+soldier	صلح
+negotiation	دیپلماسی
+journalist	شاعر
+brush	آبرنگ
+Julius Caesar	سزار
+lake	حواصیل خاکستری
+potato	برنج
+protein	دستگیره
+digit	عدد
+plane	بوئینگ
+Middle East	فرات
+competition	احترام متقابل
+strawberry	گیلاس
+snowboard	اسکی
+Gospel	کتاب مقدس
+constitution	مجلس سنا
+rhythm	آهنگ
+mojito	موهیتو
+Penicillin	الکساندرفلمینگ
+actor	تلویزیون
+notebook	تفنگ
+language	زبان مادری
+legend	پند
+gray heron	دریاچه
+gun	گروهبان
+flag	پرچم انگلستان
+JPEG	پی‌دی‌اف
+flora	مرورگر وب
+Green Revolution	رنگ
+justice	محکمه
+English	آمریکایی
+kindergarten	پيش‌دبستان
+squall	باد
+theatre	فیلم
+tradition	صنایع دستی
+moral	افسانه
+government	مارمولک
+cardigan	لباس
+glacier	گرمایش جهانی
+lawyer	نمایشگاه
+peninsula	جزیره
+ruler	پادشاه
+exit	رای
+pole	پرچم
+freedom	آزادی
+governor	امپراطور
+uniform	قلاب‌دوزی
+patriotism	سرود ملی
+armed forces	دفاع
+xenophobia	نژادپرستی
+tax	برگزیت
+editorial	اخبار
+snow	بهمن
+lawyer	دادستان
+electricity	جعبه
+octopus	پاولِ هشت‌پا
+roof	پنجره
+artwork	هنرمند
+self-driving car	خودروی روباتیک
+manuscript	کتاب
+homeless	میلیاردر
+playoff	بسکتبال
+theory	فرضیه
+ring	عقد
+mathematician	نمایش
+hypothesis	نظریه
+engagement	انگشتر
+bat	خون‌آشام
+supporter	کریکت
+dollar	میلیونر
+skyscraper	کاخ
+Cyrus	امپراتوری ایران
+Union Jack	پرچم
+swimming pool	قانون
+working class	کارخانه
+Promised Land	باکو
+cameo	اجرا
+piano	هارمونی
+Legion of Honour	لوازم تحریر
+lake	ابر
+Photoshop	پینت
+milkshake	آبمیوه
+office	کارمند
+stone	برج‌ساعت
+television	نمایشنامه‌نویس
+person	شخصیت
+lock-up	سلول
+paddy	سیب‌زمینی
+monitor	نمایشگر
+protein molecule	گیرنده
+panda	خرس قطبی
+web browser	موزیلا فایرفاکس
+screenwriter	تلویزیون
+vexillology	پرچم
+church	کلیسای جامع
+frisbee	ورق‌بازی
+flag	پرچم‌شناسی
+parliament	کنگره
+videogame	بازی کامپيوتری
+Siemens	قطار برقی
+trout	گیتار
+carbon dioxide	گازکربنیک
+Wii	پلی‌استیشن
+piston	موتور
+tug of war	مار و پله
+millionaire	دلار
+symbol	نشانه
+esteem	افتخار
+poster	کاغذ
+mine	سنگ
+mark	باشگاه
+sky	خواب
+DeepMind	گوگل ديپ‌مایند
+term	نیم‌سال تحصیلی
+style	مد
+sexism	جنسیت‌زدگی
+gale	پتو
+scientist	گاوس
+road	بزرگراه
+gravity	شهاب
+sea	سونامی
+helicopter	هواپیما
+sonnet	زیبایی
+cursor	چیپس
+artist	اثر هنری
+mother tongue	زبان
+chorus	خواننده
+person	گذرگاه عابران پیاده
+essay	تکلیف
+princess	بیسکویت
+bus	مرکز شهر
+touchscreen	هدوپ
+boss	مدیر
+lens	وودی آلن
+ozone	جو
+elementary school	مداد
+stage	هوی متال
+box	منبع
+ice	برف
+episode	فصل
+outlander	خارجی
+stock market	بورس اوراق بهادار
+pesticide	آفت
+asset	موجودی کالا
+sewing machine	دکمه
+Paul the Octopus	هشت‌پا
+desert	تپه ماسه‌ای
+stool	صندلی
+Islam	قرآن
+Britain	اچ‌اس‌بی‌سی
+perspective	فاصله
+medal	کفش ورزشی
+beauty	غزل
+tank	خودرو
+rose	پروانه
+rucksack	ثابت فارادی
+plant	طبقه کارگر
+German	لاتین
+telescope	طوفان فکری
+spring	آب‌فشان
+train	تراموا
+rose oil	گلاب
+rock	معدن
+Celsius	مایکروسافت
+islamophobia	داعش
+muffin	جعفری
+HSBC	بریتانیا
+arm	شاخه
+Microsoft	سلسیوس
+gold	روی
+victim	تلفن
+Snakes and Ladders	طناب‌کشی
+racing	فیلسوف
+Olympic Games	روح
+hail	باران
+woodland	تایگر وودز
+KFC	مک‌دونالد
+path	تونل
+statute	عصر یخبندان
+system	گسل
+racket	توپ
+law	استخر
+Mozilla Firefox	مرورگر وب
+year	قرن
+simulation	رباتیک
+vacuum	سیاهچاله
+salt	سدیم کلرید
+algebra	عمل
+gymnastics	شمشیربازی
+book	تصادف
+riot	نقاشی
+crocodile	مارمولک
+slide	اشاره‌گر
+Europe	پیمان ماستریخت
+street	مرد عنکبوتی
+boat	درخت
+tail	بوئینگ ۷۴۷-۲۰۰
+eczema	درماتیت
+joystick	رادار
+Gauss	دانشمند
+European Parliament	سازمان ملل متحد
+battery	هوش مصنوعی
